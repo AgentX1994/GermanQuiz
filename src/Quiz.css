@@ -1,0 +1,77 @@
+.QuizContainer {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5vh;
+    padding-top: 1vh;
+}
+
+.QuizForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.Container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.VerbContainer {
+    margin-left: 10%;
+    font-size: 1.2rem;
+}
+
+.ResultsContainer {
+    margin-left: auto;
+    margin-right: 10%;
+}
+
+.AnswersContainer {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    justify-content: space-around;
+}
+
+.PropositionsContainer {
+    width: 10%;
+}
+
+.PropositionsContainer>div {
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.PropositionsContainer>div>label {
+    margin-left: 10%;
+}
+
+.CasesContainer {
+    width: 10%;
+}
+
+.CasesContainer>div {
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.CasesContainer>div>label {
+    margin-left: 10%;
+}
+
+.ButtonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.check-btn {
+    margin-left: auto;
+    margin-right: 15%;
+}
