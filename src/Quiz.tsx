@@ -1,6 +1,8 @@
 import React from 'react';
 import './Quiz.css';
 
+import RawVerbs from './verbs.json'
+
 enum Proposition {
     An = "an",
     Auf = "auf",
@@ -28,171 +30,43 @@ enum GrammaticalCase {
 }
 
 type VerbInfo = {
+    verb_form: string;
     verb: string;
     proposition: Proposition;
     case: GrammaticalCase;
+    examples: string[];
 }
 
-const verbs: VerbInfo[] = [
-    {
-        verb: "ändern",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "arbeiten",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "erkennen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "erkranken",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "fehlen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "forschen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "gewinnen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "hindern",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "leiden",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "liegen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "mangeln",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "mitwirken",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "sich beteiligen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "sich erfreuen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "sich orientieren",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "sich rächen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "schreiben",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "sterben",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "teilhaben",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "teilnehmen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "zunehmen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "zweifeln",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Dative
-    },
-    {
-        verb: "anpassen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "appellieren",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "denken",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "erinnern",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "sich gewöhnen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "glauben",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "sich halten",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "liefern",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-    {
-        verb: "sich machen",
-        proposition: Proposition.An,
-        case: GrammaticalCase.Accusative
-    },
-]
+function parse_verbs(): VerbInfo[] {
+    let ret = []
+    for (let raw_verb of RawVerbs) {
+        if (
+            !raw_verb.hasOwnProperty('verb_form')
+            || !raw_verb.hasOwnProperty('verb')
+            || !raw_verb.hasOwnProperty('proposition')
+            || !raw_verb.hasOwnProperty('case')
+            || !raw_verb.hasOwnProperty('examples')
+        ) {
+            console.log(`bad verb: ${raw_verb}`);
+            continue;
+        }
+        ret.push(
+            {
+                verb_form: raw_verb.verb_form,
+                verb: raw_verb.verb,
+                proposition: Proposition[raw_verb.proposition as keyof typeof Proposition],
+                case: GrammaticalCase[raw_verb.case as keyof typeof GrammaticalCase],
+                examples: raw_verb.examples,
+            }
+        )
+    }
+    return ret;
+}
+
+const verbs = parse_verbs()
 
 function next_verb(): VerbInfo {
-    return verbs[Math.floor(Math.random() * verbs.length)]
+    return verbs[Math.floor(Math.random() * verbs.length)];
 }
 
 export interface QuizProps { };
@@ -215,7 +89,7 @@ export class Quiz extends React.Component<QuizProps, QuizState> {
         total_answered: 0,
         selected_proposition: "",
         selected_case: "",
-    }
+    };
 
     checkAnswers(e: React.SyntheticEvent) {
         e.preventDefault();

@@ -1,0 +1,3577 @@
+[
+    {
+        "verb_form": "etwas/nichts \u00e4ndern an + Dat.",
+        "verb": "\u00e4ndern",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Du solltest etwas an deinem Verhalten \u00e4ndern und nicht mehr so egoistisch sein."
+        ]
+    },
+    {
+        "verb_form": "arbeiten an + Dat.",
+        "verb": "arbeiten",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Woran arbeitest du zur Zeit?",
+            "Wir arbeiten an einem neuen Projekt."
+        ]
+    },
+    {
+        "verb_form": "jn./etw. erkennen an + Dat.",
+        "verb": "erkennen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Woran erkennt man, dass jemand traurig ist?",
+            "Woran hast du das erkannt?",
+            "Du erkennst sie an ihren feuerroten Haaren."
+        ]
+    },
+    {
+        "verb_form": "erkranken an + Dat.",
+        "verb": "erkranken",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Sie ist an einer Grippe erkrankt."
+        ]
+    },
+    {
+        "verb_form": "jm. fehlen an (es) + Dat.",
+        "verb": "fehlen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Woran fehlt es?",
+            "Momentan fehlt es in dem Land an allem.",
+            "Mir fehlt es an Geduld."
+        ]
+    },
+    {
+        "verb_form": "forschen an + Dat.",
+        "verb": "forschen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Die Mediziner forschen an der Entwicklung einer neuen Therapie zur",
+            "Bek\u00e4mpfung dieser Krankheit."
+        ]
+    },
+    {
+        "verb_form": "gewinnen an + Dat.",
+        "verb": "gewinnen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Mit der Zeit hat das Kind an Selbstbewusstsein gewonnen.",
+            "Diese Gruppierung hat an Einfluss gewonnen."
+        ]
+    },
+    {
+        "verb_form": "jn. hindern an + Dat.",
+        "verb": "hindern",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Sie haben mich daran gehindert, meine Tr\u00e4ume zu verwirklichen."
+        ]
+    },
+    {
+        "verb_form": "leiden an + Dat.",
+        "verb": "leiden",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Er leidet schon sehr lange an Arthrose.",
+            "Sie leidet noch nicht lange an dieser Krankheit."
+        ]
+    },
+    {
+        "verb_form": "liegen an + Dat.",
+        "verb": "liegen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Woran liegt das?",
+            "Woran liegt es, dass wir nicht gewinnen?",
+            "Es stellt sich die Frage, woran das liegt.",
+            "Es liegt nur an dir.",
+            "Es liegt daran, dass er mir nie zuh\u00f6rt."
+        ]
+    },
+    {
+        "verb_form": "mangeln an (es) + Dat.",
+        "verb": "mangeln",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "In unserem Land mangelt es an qualifizierten Fachkr\u00e4ften."
+        ]
+    },
+    {
+        "verb_form": "mitwirken an + Dat.",
+        "verb": "mitwirken",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Wer hat an diesem Projekt mitgewirkt?"
+        ]
+    },
+    {
+        "verb_form": "sich beteiligen an + Dat.",
+        "verb": "beteiligen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Alle sollten sich an den Kosten beteiligen.",
+            "An diesem Erfolg waren alle gleicherma\u00dfen beteiligt."
+        ]
+    },
+    {
+        "verb_form": "sich erfreuen an + Dat.",
+        "verb": "erfreuen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Ich erfreue mich an dem Anblick der sch\u00f6nen Landschaft."
+        ]
+    },
+    {
+        "verb_form": "sich orientieren an + Dat.",
+        "verb": "orientieren",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "In einer fremden Stadt kann man sich am Stadtplan orientieren.",
+            "Vielen Jugendlichen fehlt jemand, an dem sie sich orientieren k\u00f6nnten.",
+            "Orientiert euch an dem, was in der Anleitung steht.\\"
+        ]
+    },
+    {
+        "verb_form": "sich r\u00e4chen an + Dat.",
+        "verb": "r\u00e4chen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Sie haben sich an ihm f\u00fcr seine Gemeinheiten ger\u00e4cht.",
+            "An wem willst du dich r\u00e4chen?"
+        ]
+    },
+    {
+        "verb_form": "schreiben an + Dat.",
+        "verb": "schreiben",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Der Schriftsteller schreibt gerade an einem neuen Roman.",
+            "Ich schreibe noch an der E-Mail."
+        ]
+    },
+    {
+        "verb_form": "sterben an + Dat.",
+        "verb": "sterben",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Woran ist er gestorben?",
+            "In den letzten Monaten sind viele alte Menschen an Grippe gestorben."
+        ]
+    },
+    {
+        "verb_form": "teilhaben an + Dat.",
+        "verb": "teilhaben",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Sie l\u00e4sst niemanden an ihrem Leben teilhaben.",
+            "Lass mich doch an deiner Freude teilhaben!"
+        ]
+    },
+    {
+        "verb_form": "teilnehmen an + Dat.",
+        "verb": "teilnehmen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "An der Demonstration haben etwa 20.000 Menschen teilgenommen."
+        ]
+    },
+    {
+        "verb_form": "zunehmen an + Dat.",
+        "verb": "zunehmen",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Ich habe an Gewicht zugenommen."
+        ]
+    },
+    {
+        "verb_form": "zweifeln an + Dat.",
+        "verb": "zweifeln",
+        "proposition": "an",
+        "case": "dative",
+        "examples": [
+            "Ich zweifle am Wahrheitsgehalt der Geschichte.",
+            "Sie zweifelt daran, dass er ihr die Wahrheit gesagt hat.",
+            "Ich wei\u00df nicht, woran du noch zweifelst."
+        ]
+    },
+    {
+        "verb_form": "sich/etw. anpassen an + Akk.",
+        "verb": "anpassen",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Wir m\u00fcssen uns an die Gegebenheiten anpassen.",
+            "Man muss seine Erwartungen an die Wirklichkeit anpassen.",
+            "Die Firma hat das neue Modell an den Geschmack der Kunden angepasst."
+        ]
+    },
+    {
+        "verb_form": "appellieren an + Akk.",
+        "verb": "appellieren",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Wir appellieren an alle anst\u00e4ndigen Menschen, Widerstand zu leisten."
+        ]
+    },
+    {
+        "verb_form": "denken an + Akk.",
+        "verb": "denken",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Woran denkst du gerade?",
+            "An wen denkst du?",
+            "Denk bitte an das Buch! Vergiss es bitte nicht.",
+            "Denk bitte daran, die Blumen zu gie\u00dfen!"
+        ]
+    },
+    {
+        "verb_form": "sich/jn. erinnern an + Akk.",
+        "verb": "erinnern",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Ich erinnere mich an dich.",
+            "Ich erinnere mich daran, wie wir uns kennengelernt haben."
+        ]
+    },
+    {
+        "verb_form": "sich gew\u00f6hnen an + Akk.",
+        "verb": "gew\u00f6hnen",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Wir m\u00fcssen uns an den neuen Lehrer gew\u00f6hnen.",
+            "Ich habe mich so an euch gew\u00f6hnt, dass ich euch jetzt, wo ihr nicht mehr hier seid, sehr vermisse.",
+            "Ich habe mich daran gew\u00f6hnt, jeden Morgen gut zu fr\u00fchst\u00fccken.",
+            "Mit der Zeit habe ich mich daran gew\u00f6hnt."
+        ]
+    },
+    {
+        "verb_form": "glauben an + Akk.",
+        "verb": "glauben",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Woran kann man heutzutage noch glauben?",
+            "Glaubst du an ein Leben nach dem Tod?"
+        ]
+    },
+    {
+        "verb_form": "sich halten an + Akk.",
+        "verb": "halten",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Halten Sie sich an den Hausmeister, wenn Sie Hilfe brauchen.",
+            "Alle m\u00fcssen sich an die Regeln halten.",
+            "Er hat sich nicht an unsere Abmachung gehalten."
+        ]
+    },
+    {
+        "verb_form": "liefern an + Akk.",
+        "verb": "liefern",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "K\u00f6nnen Sie die Waren bitte an meine Adresse liefern?"
+        ]
+    },
+    {
+        "verb_form": "sich machen an + Akk.",
+        "verb": "machen",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Wir sollten uns jetzt aber wirklich an die Arbeit machen.",
+            "Sie hat sich daran gemacht, die Fensterrahmen zu streichen."
+        ]
+    },
+    {
+        "verb_form": "sich/etw. richten an + Akk.",
+        "verb": "richten",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "An wen richtet sich diese Botschaft?",
+            "Das Buch richtet sich an das Verantwortungsbewusstsein der Leser.",
+            "Ich m\u00f6chte noch ein paar Worte an die G\u00e4ste richten."
+        ]
+    },
+    {
+        "verb_form": "schicken an + Akk.",
+        "verb": "schicken",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Ich habe die E-Mail an alle Freunde geschickt.",
+            "An wen soll ich den Brief schicken?"
+        ]
+    },
+    {
+        "verb_form": "senden an + Akk.",
+        "verb": "senden",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Senden Sie bitte eine Kopie an mich."
+        ]
+    },
+    {
+        "verb_form": "schreiben an + Akk.",
+        "verb": "schreiben",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "An wen schreibst du?",
+            "Ich schreibe an einen Freund."
+        ]
+    },
+    {
+        "verb_form": "sich wenden an + Akk.",
+        "verb": "wenden",
+        "proposition": "an",
+        "case": "accusative",
+        "examples": [
+            "Wenden Sie sich bitte an unsere Mitarbeiter, wenn Sie weitere Informationen ben\u00f6tigen.",
+            "An wen kann ich mich wenden, wenn ich Hilfe brauche?"
+        ]
+    },
+    {
+        "verb_form": "basieren auf + Dat.",
+        "verb": "basieren",
+        "proposition": "auf",
+        "case": "dative",
+        "examples": [
+            "Der Film basiert auf einer wahren Geschichte."
+        ]
+    },
+    {
+        "verb_form": "beharren auf + Dat.",
+        "verb": "beharren",
+        "proposition": "auf",
+        "case": "dative",
+        "examples": [
+            "Er beharrt auf seinem Standpunkt.",
+            "Sie beharrte darauf, pers\u00f6nlich mit der B\u00fcrgermeisterin zu sprechen."
+        ]
+    },
+    {
+        "verb_form": "beruhen auf + Dat.",
+        "verb": "beruhen",
+        "proposition": "auf",
+        "case": "dative",
+        "examples": [
+            "Der Roman beruht auf einer wahren Begebenheit.",
+            "Die Abneigung beruht auf Gegenseitigkeit.",
+            "Wir sollten die Sache auf sich beruhen lassen."
+        ]
+    },
+    {
+        "verb_form": "bestehen auf + Dat.",
+        "verb": "bestehen",
+        "proposition": "auf",
+        "case": "dative",
+        "examples": [
+            "Ich bestehe auf meinem Recht, das defekte Ger\u00e4t umzutauschen.",
+            "Der Lehrer besteht darauf, dass die Handys w\u00e4hrend der Pr\u00fcfung ausgeschaltet bleiben."
+        ]
+    },
+    {
+        "verb_form": "ruhen auf + Dat.",
+        "verb": "ruhen",
+        "proposition": "auf",
+        "case": "dative",
+        "examples": [
+            "Alle Hoffnungen ruhen auf ihm."
+        ]
+    },
+    {
+        "verb_form": "achten auf + Akk.",
+        "verb": "achten",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Achtet bitte auf eure Wertgegenst\u00e4nde, denn hier gibt es Taschendiebe!",
+            "Worauf muss man achten, wenn man eine Wohnung kaufen will?",
+            "Achtet darauf, was ihr sagt!"
+        ]
+    },
+    {
+        "verb_form": "ankommen auf (es) + Akk.",
+        "verb": "ankommen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Worauf kommt es an?",
+            "Es kommt auf die richtige Mischung an.",
+            "Es kommt darauf an, den Gegner nicht zu untersch\u00e4tzen."
+        ]
+    },
+    {
+        "verb_form": "anspielen auf + Akk.",
+        "verb": "anspielen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Sie spielt immer auf den Vorfall vor drei Jahren an."
+        ]
+    },
+    {
+        "verb_form": "jm. antworten auf + Akk.",
+        "verb": "antworten",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Ich antworte gern auf deine Frage.",
+            "Ich habe darauf geantwortet, dass ich noch nichts Genaues wisse."
+        ]
+    },
+    {
+        "verb_form": "aufpassen auf + Akk.",
+        "verb": "aufpassen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Du musst gut auf deine Sachen aufpassen.",
+            "Ich lasse mein Handy hier auf dem Tisch. Kannst du bitte darauf aufpassen?"
+        ]
+    },
+    {
+        "verb_form": "sich belaufen auf + Akk.",
+        "verb": "belaufen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Kosten belaufen sich auf 299 Euro.",
+            "Der Schaden bel\u00e4uft sich auf 1989 Euro."
+        ]
+    },
+    {
+        "verb_form": "sich berufen auf + Akk.",
+        "verb": "berufen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Zeitung beruft sich in dem Artikel auf eine sichere Quelle.",
+            "Er beruft sich auf sein Recht zur freien Meinungs\u00e4u\u00dferung."
+        ]
+    },
+    {
+        "verb_form": "sich beschr\u00e4nken auf + Akk.",
+        "verb": "beschr\u00e4nken",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Wir sollten uns auf das Wesentliche beschr\u00e4nken.",
+            "Die Zahl der freien Pl\u00e4tze in diesem Kurs beschr\u00e4nkt sich auf 10.",
+            "Die F\u00f6rderma\u00dfnahmen beschr\u00e4nken sich auf Gemeinden mit weniger als 5.000 Einwohnern."
+        ]
+    },
+    {
+        "verb_form": "sich besinnen auf + Akk.",
+        "verb": "besinnen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Wir m\u00fcssen uns auf unsere St\u00e4rken besinnen."
+        ]
+    },
+    {
+        "verb_form": "sich beziehen auf + Akk.",
+        "verb": "beziehen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Ich beziehe mich auf das, was Sie vorhin erw\u00e4hnt haben.",
+            "Meine Frage bezieht sich auf die Garantiebestimmungen."
+        ]
+    },
+    {
+        "verb_form": "jn. bringen auf + Akk.",
+        "verb": "bringen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Wer hat dich auf diese Idee gebracht?",
+            "Das bringt mich auf eine Idee.",
+            "Wer hat dich blo\u00df darauf gebracht, dies zu tun?"
+        ]
+    },
+    {
+        "verb_form": "dr\u00e4ngen auf + Akk.",
+        "verb": "dr\u00e4ngen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Alle haben auf eine schnelle Entscheidung gedr\u00e4ngt.",
+            "Er dr\u00e4ngt schon seit geraumer Zeit darauf, endlich anzufangen."
+        ]
+    },
+    {
+        "verb_form": "eingehen auf + Akk.",
+        "verb": "eingehen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Sie ist nicht auf meine Frage eingegangen.",
+            "Ich m\u00f6chte jetzt noch kurz auf das eingehen, was Sie eben gesagt haben."
+        ]
+    },
+    {
+        "verb_form": "sich einigen auf + Akk.",
+        "verb": "einigen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Wir sollten versuchen, uns auf einen Kompromiss zu einigen.",
+            "Worauf habt ihr euch geeinigt?",
+            "Wir haben uns darauf geeinigt, die Klassenfahrt nach Berlin zu machen."
+        ]
+    },
+    {
+        "verb_form": "einladen auf + Akk.",
+        "verb": "einladen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Ich w\u00fcrde dich gern auf einen Kaffee einladen.",
+            "Sie hat mich auf ihre Geburtstagsfeier eingeladen."
+        ]
+    },
+    {
+        "verb_form": "sich einlassen auf + Akk.",
+        "verb": "einlassen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Er provoziert gern. Am besten l\u00e4sst du dich gar nicht darauf ein.",
+            "Ich h\u00e4tte mich nicht darauf einlassen sollen."
+        ]
+    },
+    {
+        "verb_form": "sich einstellen auf + Akk.",
+        "verb": "einstellen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Der Klimawandel schreitet voran und wir m\u00fcssen uns auf h\u00f6here Temperaturen und mehr extreme Wetterereignisse einstellen."
+        ]
+    },
+    {
+        "verb_form": "(sich) erh\u00f6hen auf + Akk.",
+        "verb": "erh\u00f6hen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Zahl der Opfer erh\u00f6hte sich auf 13."
+        ]
+    },
+    {
+        "verb_form": "sich freuen auf + Akk.",
+        "verb": "freuen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Morgen sehen wir uns endlich. Ich freue mich sehr auf deinen Besuch.",
+            "Ich freue mich darauf, dich bald wiederzusehen."
+        ]
+    },
+    {
+        "verb_form": "jn. hinweisen auf + Akk.",
+        "verb": "hinweisen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Das Schild weist auf die Gefahr hin.",
+            "Die Lehrerin hat auf den Fehler hingewiesen.",
+            "Der Kursleiter hat darauf hingewiesen, dass die Sch\u00fcler sich bis zum Ende des Monats f\u00fcr die Pr\u00fcfung anmelden m\u00fcssen."
+        ]
+    },
+    {
+        "verb_form": "hoffen auf + Akk.",
+        "verb": "hoffen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Es regnet schon seit Tagen und wir hoffen auf besseres Wetter."
+        ]
+    },
+    {
+        "verb_form": "h\u00f6ren auf + Akk.",
+        "verb": "h\u00f6ren",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Warum h\u00f6rst du nicht auf mich?",
+            "Du solltest auf das, was sie sagt, h\u00f6ren."
+        ]
+    },
+    {
+        "verb_form": "kommen auf + Akk.",
+        "verb": "kommen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Wie bist du blo\u00df auf diese Idee gekommen?",
+            "Wie kommst du darauf?",
+            "Ich dachte, der Name w\u00fcrde mir wieder einfallen, aber ich bin nicht mehr darauf gekommen, wie er hei\u00dft."
+        ]
+    },
+    {
+        "verb_form": "sich konzentrieren auf + Akk.",
+        "verb": "konzentrieren",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Es ist laut und ich kann mich nicht auf meine Arbeit konzentrieren."
+        ]
+    },
+    {
+        "verb_form": "reagieren auf + Akk.",
+        "verb": "reagieren",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Wie haben sie auf deine Entscheidung reagiert?",
+            "Sie haben \u00fcberhaupt nicht darauf reagiert."
+        ]
+    },
+    {
+        "verb_form": "sich/etw. richten auf + Akk.",
+        "verb": "richten",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Alle Augen richteten sich auf den Schiedsrichter.",
+            "Wir sollten unsere ganze Aufmerksamkeit auf dieses Problem richten."
+        ]
+    },
+    {
+        "verb_form": "schie\u00dfen auf + Akk.",
+        "verb": "schie\u00dfen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Mannschaft hat kein einziges Mal auf das gegnerische Tor geschossen."
+        ]
+    },
+    {
+        "verb_form": "schimpfen auf + Akk.",
+        "verb": "schimpfen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Er schimpft st\u00e4ndig auf seine Nachbarn."
+        ]
+    },
+    {
+        "verb_form": "schw\u00f6ren auf + Akk.",
+        "verb": "schw\u00f6ren",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Sie schw\u00f6rt auf dieses Heilmittel. Ihrer Meinung nach gibt es nichts Besseres."
+        ]
+    },
+    {
+        "verb_form": "sinken auf + Akk.",
+        "verb": "sinken",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Arbeitslosenzahlen sind auf den tiefsten Wert seit 10 Jahren gesunken.",
+            "Das Schiff sank auf den Meeresgrund."
+        ]
+    },
+    {
+        "verb_form": "sich spezialisieren auf + Akk.",
+        "verb": "spezialisieren",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Sie haben sich darauf spezialisiert, defekte Handys zu reparieren."
+        ]
+    },
+    {
+        "verb_form": "stehen auf + Akk.",
+        "verb": "stehen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Ich glaube, sie steht auf dich. Sie schaut dich immer so verliebt an."
+        ]
+    },
+    {
+        "verb_form": "steigen auf + Akk.",
+        "verb": "steigen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Temperaturen sollen morgen auf einen neuen Rekordwert steigen."
+        ]
+    },
+    {
+        "verb_form": "sich verlassen auf + Akk.",
+        "verb": "verlassen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Du kannst dich auf mich verlassen.",
+            "Du kannst dich darauf verlassen, dass ich dir helfe."
+        ]
+    },
+    {
+        "verb_form": "verschieben auf + Akk.",
+        "verb": "verschieben",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Du solltest die Dinge, die du zu erledigen hast, nicht immer auf sp\u00e4ter verschieben.",
+            "Da einige Kollegen krank sind, haben wir die Sitzung auf n\u00e4chste Woche verschoben."
+        ]
+    },
+    {
+        "verb_form": "vertrauen auf + Akk.",
+        "verb": "vertrauen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Vertrau auf deine F\u00e4higkeiten!",
+            "Wir haben darauf vertraut, dass der Brief p\u00fcnktlich kommt."
+        ]
+    },
+    {
+        "verb_form": "verzichten auf + Akk.",
+        "verb": "verzichten",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die meisten Menschen sind nicht bereit, auf ihren Wohlstand zu verzichten.",
+            "Die Sportlerin hat darauf verzichtet, an diesem Wettkampf teilzunehmen."
+        ]
+    },
+    {
+        "verb_form": "sich/jn. vorbereiten auf + Akk.",
+        "verb": "vorbereiten",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Lehrerin bereitet ihre Sch\u00fcler gut auf die Pr\u00fcfung vor.",
+            "Ich wurde von der Situation v\u00f6llig \u00fcberrascht. Ich war nicht darauf vorbereitet."
+        ]
+    },
+    {
+        "verb_form": "warten auf + Akk.",
+        "verb": "warten",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Die Kinder warten auf den Bus.",
+            "Worauf wartest du?",
+            "Ich warte darauf, dass es endlich aufh\u00f6rt zu regnen.",
+            "Ich warte auf meine Schwester. Und auf wen wartest du?"
+        ]
+    },
+    {
+        "verb_form": "wirken auf + Akk.",
+        "verb": "wirken",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Es wurde noch nicht erprobt, wie das Medikament auf den menschlichen K\u00f6rper wirkt.",
+            "Sie wirkt auf mich, als sei sie verwirrt."
+        ]
+    },
+    {
+        "verb_form": "z\u00e4hlen auf + Akk.",
+        "verb": "z\u00e4hlen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Verlass dich auf uns! Du kannst auf uns z\u00e4hlen."
+        ]
+    },
+    {
+        "verb_form": "zugehen auf + Akk.",
+        "verb": "zugehen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Als sie uns sah, ging sie sofort auf uns zu.",
+            "Du darfst nicht immer auf deinem Standpunkt beharren. Du musst auch auf die",
+            "Verhandlungspartner zugehen.",
+            "Wir sind aufeinander zugegangen. Nur so war eine Einigung m\u00f6glich."
+        ]
+    },
+    {
+        "verb_form": "zur\u00fcckkommen auf + Akk.",
+        "verb": "zur\u00fcckkommen",
+        "proposition": "auf",
+        "case": "accusative",
+        "examples": [
+            "Ich komme noch einmal auf die Frage zur\u00fcck, warum wir unser Ziel nicht erreichen konnten."
+        ]
+    },
+    {
+        "verb_form": "bestehen aus + Dat.",
+        "verb": "bestehen",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Die Gruppe bestand aus drei Frauen und zwei M\u00e4nnern."
+        ]
+    },
+    {
+        "verb_form": "sich ergeben aus + Dat.",
+        "verb": "ergeben",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Manchmal muss man einfach abwarten und sehen, was sich aus der Situation ergibt."
+        ]
+    },
+    {
+        "verb_form": "ersehen aus + Dat.",
+        "verb": "ersehen",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Aus diesen Umfragen kann man ersehen, dass die Zufriedenheit der Bev\u00f6lkerung zugenommen hat."
+        ]
+    },
+    {
+        "verb_form": "folgern aus + Dat.",
+        "verb": "folgern",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Aus deinen Worten folgere ich, dass du sehr unzufrieden bist.",
+            "Was folgern wir daraus?",
+            "Daraus l\u00e4sst sich folgern, dass es derzeit keinen Zweck hat, weiter an diesem Projekt zu arbeiten."
+        ]
+    },
+    {
+        "verb_form": "machen aus + Dat.",
+        "verb": "machen",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Wir m\u00fcssen versuchen, das Beste aus unserer Lage zu machen.",
+            "Woraus hast du das gemacht? Aus Karton?"
+        ]
+    },
+    {
+        "verb_form": "resultieren aus + Dat.",
+        "verb": "resultieren",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Diese Einsch\u00e4tzung resultiert aus den Ergebnissen verschiedener Umfragen."
+        ]
+    },
+    {
+        "verb_form": "schlie\u00dfen aus + Dat.",
+        "verb": "schlie\u00dfen",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Aus dem, was Sie gesagt haben, l\u00e4sst sich schlie\u00dfen, dass die Lage ziemlich ausweglos ist."
+        ]
+    },
+    {
+        "verb_form": "\u00fcbersetzten aus + Dat.",
+        "verb": "\u00fcbersetzten",
+        "proposition": "aus",
+        "case": "dative",
+        "examples": [
+            "Dieser Text wurde aus dem Hebr\u00e4ischen \u00fcbersetzt."
+        ]
+    },
+    {
+        "verb_form": "arbeiten bei + Dat.",
+        "verb": "arbeiten",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Ich arbeite schon seit vielen Jahren bei Rossmann."
+        ]
+    },
+    {
+        "verb_form": "sich bedanken bei + Dat.",
+        "verb": "bedanken",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Hast du dich bei ihr bedankt?",
+            "Ich wei\u00df nicht, bei wem ich mich bedanken soll."
+        ]
+    },
+    {
+        "verb_form": "sich beklagen bei + Dat.",
+        "verb": "beklagen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Sie hat sich schon mehrmals bei mir beklagt."
+        ]
+    },
+    {
+        "verb_form": "sich beschweren bei + Dat.",
+        "verb": "beschweren",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Wenn das noch einmal vorkommt, werde ich mich beim Betriebsrat beschweren."
+        ]
+    },
+    {
+        "verb_form": "sich erkundigen bei + Dat.",
+        "verb": "erkundigen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Ich habe mich bei den Nachbarn nach den Gr\u00fcnden f\u00fcr ihr Verhalten erkundigt."
+        ]
+    },
+    {
+        "verb_form": "jm. helfen bei + Dat.",
+        "verb": "helfen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Ich schaffe es nicht allein. K\u00f6nnten Sie mir bitte dabei helfen?",
+            "Wir haben ihm beim Umzug geholfen.",
+            "Wenn du willst, helfe ich dir dabei, die Wohnung aufzur\u00e4umen."
+        ]
+    },
+    {
+        "verb_form": "sich informieren bei + Dat.",
+        "verb": "informieren",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Ich w\u00fcrde gern wissen, bei wem ich mich n\u00e4her informieren kann.",
+            "Informieren Sie sich am besten bei einem Fachmann oder einer Fachfrau."
+        ]
+    },
+    {
+        "verb_form": "mitmachen bei + Dat.",
+        "verb": "mitmachen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Willst du bei uns mitmachen?",
+            "Jeder, der will, darf bei dieser Aktion mitmachen."
+        ]
+    },
+    {
+        "verb_form": "mitwirken bei + Dat.",
+        "verb": "mitwirken",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Viele freiwillige Helfer haben bei der Veranstaltung mitgewirkt.",
+            "Wer hat eigentlich alles bei dem Theaterst\u00fcck mitgewirkt?"
+        ]
+    },
+    {
+        "verb_form": "jn. st\u00f6ren bei + Dat.",
+        "verb": "st\u00f6ren",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Entschuldigung, aber Sie st\u00f6ren mich beim Lernen.",
+            "Ich habe versucht, meine Aufgaben zu erledigen, aber ich wurde mehrmals dabei gest\u00f6rt."
+        ]
+    },
+    {
+        "verb_form": "jn. unterst\u00fctzen bei + Dat.",
+        "verb": "unterst\u00fctzen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Ich danke Ihnen daf\u00fcr, dass Sie uns bei diesem Projekt unterst\u00fctzt haben.",
+            "Ich will die Veranstaltung organisieren und hoffe, dass mich jemand dabei unterst\u00fctzt."
+        ]
+    },
+    {
+        "verb_form": "z\u00f6gern bei + Dat.",
+        "verb": "z\u00f6gern",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Der Spieler hat beim Schuss kurz gez\u00f6gert."
+        ]
+    },
+    {
+        "verb_form": "jm. zugucken bei + Dat.",
+        "verb": "zugucken",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Wenn du willst, kannst du mir dabei zugucken, wie ich es mache."
+        ]
+    },
+    {
+        "verb_form": "jm. zuschauen bei + Dat.",
+        "verb": "zuschauen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Die einen arbeiten und die anderen schauen bei der Arbeit zu."
+        ]
+    },
+    {
+        "verb_form": "jm. zusehen bei + Dat.",
+        "verb": "zusehen",
+        "proposition": "bei",
+        "case": "dative",
+        "examples": [
+            "Die Eltern sehen ihrem Sohn beim Fu\u00dfballspielen zu."
+        ]
+    },
+    {
+        "verb_form": "arbeiten f\u00fcr + Akk.",
+        "verb": "arbeiten",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "F\u00fcr wen arbeitest du?",
+            "Sie arbeitet f\u00fcr eine Firma aus dem Ausland."
+        ]
+    },
+    {
+        "verb_form": "ausgeben f\u00fcr + Akk.",
+        "verb": "ausgeben",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Sie haben viel Geld f\u00fcr diese Reise ausgegeben.",
+            "\u00dcberleg dir gut, wof\u00fcr du dein Geld ausgibst."
+        ]
+    },
+    {
+        "verb_form": "sich bedanken f\u00fcr + Akk.",
+        "verb": "bedanken",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Ich bedanke mich bei Ihnen f\u00fcr Ihre Hilfe."
+        ]
+    },
+    {
+        "verb_form": "sich/jn. begeistern f\u00fcr + Akk.",
+        "verb": "begeistern",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Ich begeistere mich sehr f\u00fcr diesen Sport.",
+            "Der Lehrer versucht, seine Sch\u00fcler f\u00fcr dieses Fach zu begeistern."
+        ]
+    },
+    {
+        "verb_form": "jm. danken f\u00fcr + Akk.",
+        "verb": "danken",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Ich danke dir f\u00fcr alles.",
+            "Danke f\u00fcr deine Hilfe.",
+            "Ich danke dir daf\u00fcr, dass du mich nicht allein gelassen hast."
+        ]
+    },
+    {
+        "verb_form": "demonstrieren f\u00fcr + Akk.",
+        "verb": "demonstrieren",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Die Leute auf der Stra\u00dfe demonstrieren f\u00fcr die Einhaltung der Menschenrechte."
+        ]
+    },
+    {
+        "verb_form": "sich eignen f\u00fcr + Akk.",
+        "verb": "eignen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Es tut mir leid, aber ich eigne mich einfach nicht f\u00fcr diese Arbeit.",
+            "Wir sollten versuchen, jemanden zu finden, der f\u00fcr diese Aufgabe geeignet ist.",
+            "Ich habe keine Ahnung, wof\u00fcr sich das Ger\u00e4t eignet."
+        ]
+    },
+    {
+        "verb_form": "sich einsetzen f\u00fcr + Akk.",
+        "verb": "einsetzen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Sie haben sich sehr f\u00fcr gefl\u00fcchtete Menschen eingesetzt.",
+            "Der B\u00fcrgermeister hat sich jahrelang daf\u00fcr eingesetzt, dass die Umgehungsstra\u00dfe gebaut wird."
+        ]
+    },
+    {
+        "verb_form": "eintreten f\u00fcr + Akk.",
+        "verb": "eintreten",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Sie tritt f\u00fcr die Rechte von Minderheiten ein."
+        ]
+    },
+    {
+        "verb_form": "sich engagieren f\u00fcr + Akk.",
+        "verb": "engagieren",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Wenn man ein Projekt gut findet, sollte man sich auch daf\u00fcr engagieren.",
+            "Sie hat sich sehr daf\u00fcr engagiert, dass dieses Fest auch in diesem Jahr stattfinden kann."
+        ]
+    },
+    {
+        "verb_form": "jn. entsch\u00e4digen f\u00fcr + Akk.",
+        "verb": "entsch\u00e4digen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Ich hoffe, dass wir f\u00fcr den entstandenen Schaden entsch\u00e4digt werden."
+        ]
+    },
+    {
+        "verb_form": "sich entscheiden f\u00fcr + Akk.",
+        "verb": "entscheiden",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Ich habe mich f\u00fcr dieses Arbeitsangebot entschieden.",
+            "Wof\u00fcr hast du dich letztendlich entschieden?",
+            "Wir haben uns daf\u00fcr entschieden, uns zu trennen."
+        ]
+    },
+    {
+        "verb_form": "sich entschuldigen f\u00fcr + Akk.",
+        "verb": "entschuldigen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Sie sollten sich f\u00fcr Ihr Verhalten entschuldigen.",
+            "Ich entschuldige mich f\u00fcr meine Versp\u00e4tung.",
+            "Ich habe mich daf\u00fcr entschuldigt, dass ich sie nicht rechtzeitig informiert hatte.",
+            "Ich wei\u00df wirklich nicht, wof\u00fcr ich mich entschuldigen sollte."
+        ]
+    },
+    {
+        "verb_form": "geradestehen f\u00fcr + Akk.",
+        "verb": "geradestehen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Die Eltern m\u00fcssen f\u00fcr den von ihren Kindern verursachten Schaden geradestehen.",
+            "Wenn man etwas angerichtet hat, muss man auch daf\u00fcr geradestehen."
+        ]
+    },
+    {
+        "verb_form": "jn./etwas/sich halten f\u00fcr + Akk.",
+        "verb": "halten",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Zuerst hatten wir die Person im Schatten f\u00fcr einen Einbrecher gehalten, doch dann stellte sich heraus, dass es nur unser Nachbar war.",
+            "Ich halte es f\u00fcr einen Fehler, aber du musst selber wissen, was du tust.",
+            "Er h\u00e4lt sich f\u00fcr den gr\u00f6\u00dften."
+        ]
+    },
+    {
+        "verb_form": "sich interessieren f\u00fcr + Akk.",
+        "verb": "interessieren",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Wof\u00fcr interessieren Sie sich?",
+            "Wenn du dich f\u00fcr dieses Thema interessierst, kann ich dir gern mehr Informationen zukommen lassen.",
+            "Ich interessiere mich daf\u00fcr, an diesem Kurs teilzunehmen."
+        ]
+    },
+    {
+        "verb_form": "k\u00e4mpfen f\u00fcr + Akk.",
+        "verb": "k\u00e4mpfen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Wir m\u00fcssen f\u00fcr unsere Rechte k\u00e4mpfen.",
+            "Ich werde daf\u00fcr k\u00e4mpfen, dass uns bald wieder besser geht."
+        ]
+    },
+    {
+        "verb_form": "sich r\u00e4chen f\u00fcr + Akk.",
+        "verb": "r\u00e4chen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Sie hat sich f\u00fcr diese Boshaftigkeit ger\u00e4cht."
+        ]
+    },
+    {
+        "verb_form": "sich sch\u00e4men f\u00fcr + Akk.",
+        "verb": "sch\u00e4men",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Du solltest dich f\u00fcr dein Verhalten sch\u00e4men!"
+        ]
+    },
+    {
+        "verb_form": "sein f\u00fcr + Akk.",
+        "verb": "sein",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Ich bin f\u00fcr eine schnelle Entscheidung.",
+            "Da es regnet, bin ich daf\u00fcr, die Veranstaltung abzusagen.",
+            "Wof\u00fcr sind Sie?",
+            "Ich bin daf\u00fcr. Und Sie, sind Sie daf\u00fcr oder dagegen?"
+        ]
+    },
+    {
+        "verb_form": "sorgen f\u00fcr + Akk.",
+        "verb": "sorgen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Er sorgt r\u00fchrend f\u00fcr die kleinen Enkelkinder.",
+            "K\u00f6nnen Sie bitte f\u00fcr Ruhe sorgen?",
+            "Wir m\u00fcssen daf\u00fcr sorgen, dass so etwas nie wieder vorkommt."
+        ]
+    },
+    {
+        "verb_form": "sprechen f\u00fcr + Akk.",
+        "verb": "sprechen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "F\u00fcr ein Auslandsstudienjahr spricht, dass man die Sprache lernt und wichtige Erfahrungen sammelt.",
+            "Alles spricht f\u00fcr dich, aber du solltest dir nicht zu sicher sein, dass du den Job auch wirklich bekommst.",
+            "Alles spricht daf\u00fcr, dass morgen die Entscheidung fallen wird."
+        ]
+    },
+    {
+        "verb_form": "stehen f\u00fcr + Akk.",
+        "verb": "stehen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Der Name steht f\u00fcr hohe Qualit\u00e4t und absolute Zuverl\u00e4ssigkeit."
+        ]
+    },
+    {
+        "verb_form": "stimmen f\u00fcr + Akk.",
+        "verb": "stimmen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "\u00dcberraschend viele Parteimitglieder haben bei der Abstimmung f\u00fcr den Gegenkandidaten gestimmt.",
+            "F\u00fcr wen hast du gestimmt? Doch nicht etwas f\u00fcr diesen Kandidaten!",
+            "Da wir uns nicht auf ein Urlaubsziel einigen konnten, haben wir abgestimmt. Ich habe daf\u00fcr gestimmt, unseren Urlaub dieses Jahr in S\u00fcdfrankreich zu verbringen."
+        ]
+    },
+    {
+        "verb_form": "jn. verurteilen f\u00fcr + Akk.",
+        "verb": "verurteilen",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Darf man sie wirklich f\u00fcr dieses Verhalten verurteilen?",
+            "Der Politiker wurde daf\u00fcr verurteilt, dass er nicht fr\u00fcher \u00fcber seine Nebent\u00e4tigkeiten informiert hatte."
+        ]
+    },
+    {
+        "verb_form": "verwenden f\u00fcr + Akk.",
+        "verb": "verwenden",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Du kannst mein Werkzeug f\u00fcr die Renovierung verwenden.",
+            "Ich wei\u00df wirklich nicht, wof\u00fcr ich das Ger\u00e4t verwenden k\u00f6nnte."
+        ]
+    },
+    {
+        "verb_form": "sich verwenden f\u00fcr + Akk.",
+        "verb": "verwenden",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Sie hat sich stets f\u00fcr Bed\u00fcrftige verwendet.",
+            "Er hat sich daf\u00fcr verwendet, dass den Betroffenen unb\u00fcrokratische Hilfe zukam."
+        ]
+    },
+    {
+        "verb_form": "werben f\u00fcr + Akk.",
+        "verb": "werben",
+        "proposition": "f\u00fcr",
+        "case": "accusative",
+        "examples": [
+            "Wof\u00fcr wirbt diese Anzeige?",
+            "Der Sportler wirbt f\u00fcr eine Modemarke.",
+            "Bei der Parlamentssitzung hat sie daf\u00fcr geworben, den Gesetzentwurf noch einmal zu \u00fcberarbeiten."
+        ]
+    },
+    {
+        "verb_form": "antreten gegen + Akk.",
+        "verb": "antreten",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Die beiden Boxer treten schon zum dritten Mal gegeneinander an."
+        ]
+    },
+    {
+        "verb_form": "demonstrieren gegen + Akk.",
+        "verb": "demonstrieren",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Viele Menschen sind auf die Stra\u00dfe gegangen, um gegen diese Politik zu demonstrieren."
+        ]
+    },
+    {
+        "verb_form": "sich entscheiden gegen + Akk.",
+        "verb": "entscheiden",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Nach langem \u00dcberlegen habe ich mich gegen einen Wohnungswechsel entschieden.",
+            "Ich habe mich dagegen entschieden, an diesem Seminar teilzunehmen."
+        ]
+    },
+    {
+        "verb_form": "gewinnen gegen + Akk.",
+        "verb": "gewinnen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Die Mannschaft hat noch nie gegen den amtierenden Meister gewonnen."
+        ]
+    },
+    {
+        "verb_form": "handeln gegen + Akk.",
+        "verb": "handeln",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Ich verstehe nicht, warum du gegen deine eigenen Interessen handelst."
+        ]
+    },
+    {
+        "verb_form": "k\u00e4mpfen gegen + Akk.",
+        "verb": "k\u00e4mpfen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Alle vern\u00fcnftigen Menschen m\u00fcssen gegen diese rechtsradikale Gruppierung k\u00e4mpfen.",
+            "Nachdem er lange gegen dieses Projekt gek\u00e4mpft hatte, gab er nun seinen Widerstand auf.",
+            "Wir m\u00fcssen dagegen k\u00e4mpfen, dass sich das Klima noch weiter wandelt."
+        ]
+    },
+    {
+        "verb_form": "protestieren gegen + Akk.",
+        "verb": "protestieren",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Viele Umweltsch\u00fctzer haben gegen die Rodung des Waldes protestiert.",
+            "Du warst doch auf nicht daf\u00fcr! Warum hast du nicht dagegen protestiert?"
+        ]
+    },
+    {
+        "verb_form": "sein gegen + Akk.",
+        "verb": "sein",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Ich bin gegen diesen Vorschlag.",
+            "Ich bin dagegen, mit ihnen \u00fcber diese Sache zu sprechen.",
+            "Ich wei\u00df nicht, wie du es siehst, aber ich bin dagegen.",
+            "Die Eltern sind dagegen, dass ihr vierzehnj\u00e4hriger Sohn allein in Urlaub f\u00e4hrt."
+        ]
+    },
+    {
+        "verb_form": "siegen gegen + Akk.",
+        "verb": "siegen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Sie hat nun schon zum dritten Mal gegen ihre Konkurrentin gesiegt."
+        ]
+    },
+    {
+        "verb_form": "sprechen gegen + Akk.",
+        "verb": "sprechen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Ich denke, dass vieles gegen diesen Vorschlag spricht.",
+            "Ich frage mich, was dagegen spricht, mit ihnen zu verhandeln?",
+            "Nichts spricht dagegen.",
+            "Dagegen spricht allerdings, dass die Ma\u00dfnahme mit hohen Kosten verbunden ist."
+        ]
+    },
+    {
+        "verb_form": "stimmen gegen + Akk.",
+        "verb": "stimmen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Die Mehrheit stimmte gegen die Einf\u00fchrung einer Geschwindigkeitsbegrenzung auf Autobahnen.",
+            "13 Personen haben daf\u00fcr und 7 dagegen gestimmt."
+        ]
+    },
+    {
+        "verb_form": "sto\u00dfen gegen + Akk.",
+        "verb": "sto\u00dfen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Das Fahrzeug ist ungebremst gegen die Wand gesto\u00dfen."
+        ]
+    },
+    {
+        "verb_form": "sich str\u00e4uben gegen + Akk.",
+        "verb": "str\u00e4uben",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Er hat sich lange dagegen gestr\u00e4ubt, zu seinen Kindern zu ziehen. Doch jetzt hat er eingewilligt."
+        ]
+    },
+    {
+        "verb_form": "treten gegen + Akk.",
+        "verb": "treten",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Aus Wut hat er gegen die T\u00fcr getreten."
+        ]
+    },
+    {
+        "verb_form": "versto\u00dfen gegen + Akk.",
+        "verb": "versto\u00dfen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Wer gegen die Regeln verst\u00f6\u00dft, muss mit einer Strafe rechnen."
+        ]
+    },
+    {
+        "verb_form": "sich verteidigen gegen + Akk.",
+        "verb": "verteidigen",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Sie hat sich gegen den ungerechtfertigten Vorwurf verteidigt."
+        ]
+    },
+    {
+        "verb_form": "sich wehren gegen + Akk.",
+        "verb": "wehren",
+        "proposition": "gegen",
+        "case": "accusative",
+        "examples": [
+            "Das Opfer hat sich gegen den Angreifer gewehrt.",
+            "Ich wehre mich dagegen, dass die Geschehnisse falsch dargestellt werden."
+        ]
+    },
+    {
+        "verb_form": "bestehen in + Dat.",
+        "verb": "bestehen",
+        "proposition": "in",
+        "case": "dative",
+        "examples": [
+            "Meine Aufgabe besteht in der Planung und Durchf\u00fchrung von Fortbildungsma\u00dfnahmen.",
+            "Der Unterschied besteht darin, dass wir diesmal viel weniger Zeit f\u00fcr alles haben."
+        ]
+    },
+    {
+        "verb_form": "sich irren in + Dat.",
+        "verb": "irren",
+        "proposition": "in",
+        "case": "dative",
+        "examples": [
+            "In diesem Punkt irren Sie sich gewaltig.",
+            "Ich habe mich in der Telefonnummer geirrt."
+        ]
+    },
+    {
+        "verb_form": "sich t\u00e4uschen in + Dat.",
+        "verb": "t\u00e4uschen",
+        "proposition": "in",
+        "case": "dative",
+        "examples": [
+            "Ich muss zugeben, dass ich mich in ihr get\u00e4uscht habe. Sie ist ganz anders als ich gedacht hatte."
+        ]
+    },
+    {
+        "verb_form": "sich \u00fcben in + Dat.",
+        "verb": "\u00fcben",
+        "proposition": "in",
+        "case": "dative",
+        "examples": [
+            "Besonders im Sprechen muss ich mich noch \u00fcben.",
+            "Sie ist besonders darin ge\u00fcbt, mit schwierigen Personen umzugehen."
+        ]
+    },
+    {
+        "verb_form": "jn. unterrichten in + Dat.",
+        "verb": "unterrichten",
+        "proposition": "in",
+        "case": "dative",
+        "examples": [
+            "In welchem Fach hat er die Sch\u00fcler unterrichtet?",
+            "Dieser Lehrer hat uns in Erdkunde und Sport unterrichtet.",
+            "Drei Jahre lang hat er uns darin unterrichtet."
+        ]
+    },
+    {
+        "verb_form": "jn. \u00fcbertreffen in + Dat.",
+        "verb": "\u00fcbertreffen",
+        "proposition": "in",
+        "case": "dative",
+        "examples": [
+            "Er versucht stets, seinen Bruder in allem zu \u00fcbertreffen."
+        ]
+    },
+    {
+        "verb_form": "ausbrechen in + Akk.",
+        "verb": "ausbrechen",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Sie brachen in lautes Gel\u00e4chter aus."
+        ]
+    },
+    {
+        "verb_form": "einwilligen in + Akk.",
+        "verb": "einwilligen",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Seine Frau weigerte sich, in die Scheidung einzuwilligen."
+        ]
+    },
+    {
+        "verb_form": "sich f\u00fcgen in + Akk.",
+        "verb": "f\u00fcgen",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Am Ende f\u00fcgte er sich in sein Schicksal.",
+            "geraten in + Akk.",
+            "Ich verstehe auch nicht, wie ich in diese unangenehme Situation geraten konnte.",
+            "Die Kinder sind in gro\u00dfe Gefahr geraten."
+        ]
+    },
+    {
+        "verb_form": "investieren in + Akk.",
+        "verb": "investieren",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Die Firma hat in moderne Maschinen investiert.",
+            "Ich hatte ihm empfohlen, nicht in diese Aktien zu investieren. Wenn er dann doch darin investiert, ist es sein Problem."
+        ]
+    },
+    {
+        "verb_form": "teilen in + Akk.",
+        "verb": "teilen",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Wir m\u00fcssen den Kuchen in 12 gleich gro\u00dfe St\u00fccke teilen."
+        ]
+    },
+    {
+        "verb_form": "\u00fcbersetzen in + Akk.",
+        "verb": "\u00fcbersetzen",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Das Buch ist mittlerweile in 37 Sprachen \u00fcbersetzt worden.",
+            "Der Text wurde auch ins Arabische \u00fcbersetzt."
+        ]
+    },
+    {
+        "verb_form": "umwandeln in + Akk.",
+        "verb": "umwandeln",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Es ist ihr gelungen, den Familienbetrieb in eine moderne Firma umzuwandeln."
+        ]
+    },
+    {
+        "verb_form": "sich verlieben in + Akk.",
+        "verb": "verlieben",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "In wen hast du dich verliebt?",
+            "Er hat sich in ihn verliebt.",
+            "Sie verliebten sich ineinander."
+        ]
+    },
+    {
+        "verb_form": "sich vertiefen in + Akk.",
+        "verb": "vertiefen",
+        "proposition": "in",
+        "case": "accusative",
+        "examples": [
+            "Ich habe mich ganz in dieses Buch vertieft."
+        ]
+    },
+    {
+        "verb_form": "jn./etw./sich verwandeln in + Akk.",
+        "verb": "jn./etw./sich",
+        "proposition": "verwandeln",
+        "case": "accusative",
+        "examples": [
+            "Und pl\u00f6tzlich verwandelte der Frosch sich in einen h\u00fcbschen Prinzen."
+        ]
+    },
+    {
+        "verb_form": "anfangen mit + Dat.",
+        "verb": "anfangen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Als er 17 Jahre alt war, hat er mit dem Rauchen angefangen.",
+            "Wann f\u00e4ngst du endlich mit der Arbeit an?",
+            "Wer hat damit angefangen?"
+        ]
+    },
+    {
+        "verb_form": "aufh\u00f6ren mit + Dat.",
+        "verb": "aufh\u00f6ren",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "H\u00f6r endlich auf mit dieser Motzerei!"
+        ]
+    },
+    {
+        "verb_form": "sich austauschen mit + Dat.",
+        "verb": "austauschen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Ich habe mich mit meinen Kollegen \u00fcber dieses Thema ausgetauscht."
+        ]
+    },
+    {
+        "verb_form": "jn. beauftragen mit + Dat.",
+        "verb": "beauftragen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Wir haben diese Firma mit dem Umbau des Hauses beauftragt.",
+            "Sie haben uns damit beauftragt, f\u00fcr die Getr\u00e4nke zu sorgen."
+        ]
+    },
+    {
+        "verb_form": "sich befassen mit + Dat.",
+        "verb": "befassen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Ich befasse mich schon seit geraumer Zeit mit diesem Thema."
+        ]
+    },
+    {
+        "verb_form": "beginnen mit + Dat.",
+        "verb": "beginnen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Ich lerne schon drei Jahre Englisch und letztes Jahr habe ich mit Deutsch begonnen."
+        ]
+    },
+    {
+        "verb_form": "sich begn\u00fcgen mit + Dat.",
+        "verb": "begn\u00fcgen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Wir sollten uns mit dem begn\u00fcgen, was wir haben.",
+            "Sie hat sich mit einer Entschuldigung begn\u00fcgt und die Sache vergessen."
+        ]
+    },
+    {
+        "verb_form": "sich besch\u00e4ftigen mit + Dat.",
+        "verb": "besch\u00e4ftigen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Ich besch\u00e4ftige mich schon seit Jahren mit diesem Thema.",
+            "Die Eltern arbeiten viel und besch\u00e4ftigen sich zu wenig mit ihren Kindern."
+        ]
+    },
+    {
+        "verb_form": "diskutieren mit + Dat.",
+        "verb": "diskutieren",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Wir haben stundenlang mit ihnen diskutiert, aber wir sind zu keinem Ergebnis gekommen."
+        ]
+    },
+    {
+        "verb_form": "sich einigen mit + Dat.",
+        "verb": "einigen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Wir haben uns mit den anderen geeinigt."
+        ]
+    },
+    {
+        "verb_form": "enden mit + Dat.",
+        "verb": "enden",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Der Film endet mit einer faustdicken \u00dcberraschung.",
+            "Ich hoffe, es endet nicht damit, dass alle entt\u00e4uscht sein werden."
+        ]
+    },
+    {
+        "verb_form": "experimentieren mit + Dat.",
+        "verb": "experimentieren",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Mit diesen gef\u00e4hrlichen Chemikalien sollte man nicht experimentieren."
+        ]
+    },
+    {
+        "verb_form": "handeln mit + Dat.",
+        "verb": "handeln",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Auf diesem Platz wird mit Drogen gehandelt."
+        ]
+    },
+    {
+        "verb_form": "k\u00e4mpfen mit + Dat.",
+        "verb": "k\u00e4mpfen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Viele Bewohner dieser Region k\u00e4mpfen mit den Sp\u00e4tfolgen der Verseuchung.",
+            "Die Radfahrer hatten mit dem starken Gegenwind zu k\u00e4mpfen."
+        ]
+    },
+    {
+        "verb_form": "multiplizieren mit + Dat.",
+        "verb": "multiplizieren",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "7 multipliziert mit 4 ist gleich 28."
+        ]
+    },
+    {
+        "verb_form": "rechnen mit + Dat.",
+        "verb": "rechnen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Mit dieser Entwicklung war nicht zu rechnen.",
+            "Ich rechne damit, dass er mir hilft."
+        ]
+    },
+    {
+        "verb_form": "reden mit + Dat.",
+        "verb": "reden",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Morgen werde ich mit ihr reden.",
+            "Mit wem hast du da eben geredet?"
+        ]
+    },
+    {
+        "verb_form": "schimpfen mit + Dat.",
+        "verb": "schimpfen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Der Vater schimpft mit seinem Sohn."
+        ]
+    },
+    {
+        "verb_form": "sich schlagen mit + Dat.",
+        "verb": "schlagen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Nach dem Fu\u00dfballspiel hat er sich mit anderen Hooligans geschlagen."
+        ]
+    },
+    {
+        "verb_form": "spielen mit + Dat.",
+        "verb": "spielen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Willst du mit mir spielen?"
+        ]
+    },
+    {
+        "verb_form": "sprechen mit + Dat.",
+        "verb": "sprechen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Mit wem habt ihr gesprochen?",
+            "Sie hat mit ihrer Mutter \u00fcber dieses Thema gesprochen."
+        ]
+    },
+    {
+        "verb_form": "streiten mit + Dat.",
+        "verb": "streiten",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Sie streiten oft miteinander.",
+            "Sie hat mit ihrer Lebensgef\u00e4hrtin gestritten."
+        ]
+    },
+    {
+        "verb_form": "sich treffen mit + Dat.",
+        "verb": "treffen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Am Wochenende treffe ich mich mit meinen Freunden."
+        ]
+    },
+    {
+        "verb_form": "zu tun haben mit + Dat.",
+        "verb": "zu",
+        "proposition": "tun",
+        "case": "dative",
+        "examples": [
+            "Mit dir will ich nichts mehr zu tun haben.",
+            "Ich bin unschuldig und habe mit dieser Sache nichts zu tun.",
+            "Womit hat das zu tun?",
+            "Das Viertel hat sich zum Positiven hin ver\u00e4ndert. Das hat damit zu tun, dass dort sehr engagierte Menschen leben.",
+            "Das hat damit nichts zu tun. Der Grund ist ein anderer."
+        ]
+    },
+    {
+        "verb_form": "umgehen mit + Dat.",
+        "verb": "umgehen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Die Gro\u00dfeltern k\u00f6nnen sehr gut mit Kindern umgehen.",
+            "Wir m\u00fcssen die Situation akzeptieren und lernen, damit umzugehen."
+        ]
+    },
+    {
+        "verb_form": "sich unterhalten mit + Dat.",
+        "verb": "unterhalten",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Wir haben uns lange mit den neuen Nachbarn unterhalten."
+        ]
+    },
+    {
+        "verb_form": "sich verabreden mit + Dat.",
+        "verb": "verabreden",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Mit wem hast du dich verabredet?",
+            "Ich habe mich mit einem Freund verabredet."
+        ]
+    },
+    {
+        "verb_form": "vereinbaren mit + Dat.",
+        "verb": "vereinbaren",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Ich habe einen Termin mit meinem Steuerberater vereinbart.",
+            "Ich habe mit meinem Arbeitgeber eine Lohnerh\u00f6hung vereinbart."
+        ]
+    },
+    {
+        "verb_form": "jn. verheiraten mit + Dat.",
+        "verb": "verheiraten",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Sie haben ihre Tochter mit dem Sohn eines Nachbarn verheiratet."
+        ]
+    },
+    {
+        "verb_form": "sich verstehen mit + Dat.",
+        "verb": "verstehen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Ich verstehe mich sehr gut mit ihr.",
+            "Sie verstehen sich sehr gut miteinander."
+        ]
+    },
+    {
+        "verb_form": "sich vertragen mit + Dat.",
+        "verb": "vertragen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Nach dem Streit hat er sich schnell wieder mit seinem Bruder vertragen."
+        ]
+    },
+    {
+        "verb_form": "jn./etw. verwechseln mit + Dat.",
+        "verb": "verwechseln",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Mit wem hast du sie denn verwechselt?",
+            "Ich habe sie mit einer anderen Person verwechselt."
+        ]
+    },
+    {
+        "verb_form": "z\u00f6gern mit + Dat.",
+        "verb": "z\u00f6gern",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Er hat lange mit einer Antwort gez\u00f6gert."
+        ]
+    },
+    {
+        "verb_form": "zusammensto\u00dfen mit + Dat.",
+        "verb": "zusammensto\u00dfen",
+        "proposition": "mit",
+        "case": "dative",
+        "examples": [
+            "Wir sind mit einem anderen Auto zusammengesto\u00dfen."
+        ]
+    },
+    {
+        "verb_form": "beurteilen nach + Dat.",
+        "verb": "beurteilen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Man darf Menschen nicht nach ihrem Aussehen beurteilen.",
+            "Wir sollten sie nach ihren Taten und nicht nach ihren Worten beurteilen."
+        ]
+    },
+    {
+        "verb_form": "duften nach + Dat.",
+        "verb": "duften",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Hier duftet es nach Blumen."
+        ]
+    },
+    {
+        "verb_form": "sich erkundigen nach + Dat.",
+        "verb": "erkundigen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Wir haben uns nach dem Weg erkundigt.",
+            "Die Mitarbeiter haben sich nach dem erkrankten Kollegen erkundigt.",
+            "Ich habe ich danach erkundigt, wann der n\u00e4chste Zug nach K\u00f6ln f\u00e4hrt."
+        ]
+    },
+    {
+        "verb_form": "fahnden nach + Dat.",
+        "verb": "fahnden",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Die Polizei fahndet nach dem Verd\u00e4chtigen."
+        ]
+    },
+    {
+        "verb_form": "forschen nach + Dat.",
+        "verb": "forschen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Die Sachverst\u00e4ndigen forschen nach den Ursachen f\u00fcr das Ungl\u00fcck."
+        ]
+    },
+    {
+        "verb_form": "jn. fragen nach + Dat.",
+        "verb": "fragen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Wir hatten uns verlaufen und mussten nach dem Weg fragen.",
+            "Sie hat nach dir gefragt und wollte wissen, wie es dir geht."
+        ]
+    },
+    {
+        "verb_form": "greifen nach + Dat.",
+        "verb": "greifen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Die Partei greift nach der Macht.",
+            "Nach f\u00fcnf Siegen in Folge greift die Mannschaft nach der Meisterschaft."
+        ]
+    },
+    {
+        "verb_form": "sich richten nach\u00a0+ Dat.",
+        "verb": "richten",
+        "proposition": "nach\u00a0+",
+        "case": "dative",
+        "examples": [
+            "Ich richte mich da ganz nach dir. Du entscheidest.",
+            "Ich habe keine Lust mehr, mich immer nach seinen W\u00fcnschen zu richten."
+        ]
+    },
+    {
+        "verb_form": "riechen nach + Dat.",
+        "verb": "riechen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Hier riecht es nach leckerem Geb\u00e4ck."
+        ]
+    },
+    {
+        "verb_form": "rufen nach + Dat.",
+        "verb": "rufen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Ich habe nach dir gerufen, aber du hast mich nicht geh\u00f6rt.",
+            "Die unzufriedenen Zuschauer rufen nach einem neuen Trainer."
+        ]
+    },
+    {
+        "verb_form": "schmecken nach + Dat.",
+        "verb": "schmecken",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Wonach schmeckt das?",
+            "Das schmeckt ein bisschen nach Marzipan."
+        ]
+    },
+    {
+        "verb_form": "sich sehnen nach + Dat.",
+        "verb": "sehnen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Ich sehne mich nach dir.",
+            "Ich sehne mich danach, endlich mal wieder Zeit f\u00fcr mich zu haben."
+        ]
+    },
+    {
+        "verb_form": "stinken nach + Dat.",
+        "verb": "stinken",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Hier stinkt es ganz f\u00fcrchterlich nach Urin."
+        ]
+    },
+    {
+        "verb_form": "streben nach + Dat.",
+        "verb": "streben",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Wir haben immer danach gestrebt, uns zu verbessern."
+        ]
+    },
+    {
+        "verb_form": "suchen nach + Dat.",
+        "verb": "suchen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Ich habe lange nach diesem Buch gesucht und jetzt habe ich es endlich gefunden.",
+            "Die Bergretter haben vergeblich nach dem vermissten Wanderer gesucht.",
+            "Die Ermittler suchen nach der Ursache f\u00fcr das Ungl\u00fcck."
+        ]
+    },
+    {
+        "verb_form": "tasten nach + Dat.",
+        "verb": "tasten",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "In der Dunkelheit hat sie nach ihrem Handy getastet."
+        ]
+    },
+    {
+        "verb_form": "sich unterscheiden nach + Dat.",
+        "verb": "unterscheiden",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Die angebotenen Wanderungen unterscheiden sich nach L\u00e4nge und H\u00f6henmetern."
+        ]
+    },
+    {
+        "verb_form": "urteilen nach + Dat.",
+        "verb": "urteilen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Oft urteilen wir nach dem ersten Eindruck."
+        ]
+    },
+    {
+        "verb_form": "verlangen nach + Dat.",
+        "verb": "verlangen",
+        "proposition": "nach",
+        "case": "dative",
+        "examples": [
+            "Der Chef hat nach dir verlangt. Er m\u00f6chte etwas mit dir besprechen.",
+            "Diese Reaktion verlangt nach einer Erkl\u00e4rung."
+        ]
+    },
+    {
+        "verb_form": "sich \u00e4rgern \u00fcber + Akk.",
+        "verb": "\u00e4rgern",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "\u00c4rgere dich nicht \u00fcber das schlechte Wetter!",
+            "Ich habe mich sehr \u00fcber das, was er gesagt hat, ge\u00e4rgert.",
+            "Ich \u00e4rgere mich dar\u00fcber, dass ich es nicht geschafft habe."
+        ]
+    },
+    {
+        "verb_form": "sich aufregen \u00fcber + Akk.",
+        "verb": "aufregen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Er regt sich st\u00e4ndig \u00fcber die spielenden Kinder auf.",
+            "Sie hat sich dar\u00fcber aufgeregt, dass niemand sie vorher informiert hatte."
+        ]
+    },
+    {
+        "verb_form": "sich austauschen \u00fcber + Akk.",
+        "verb": "austauschen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "\u00dcber diesen Punkt m\u00fcssen wir uns noch austauschen."
+        ]
+    },
+    {
+        "verb_form": "sich beklagen \u00fcber + Akk.",
+        "verb": "beklagen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Der Lehrer hat sich \u00fcber das Verhalten der Klasse beklagt.",
+            "Sie hat sich dar\u00fcber beklagt, dass keiner sie um Erlaubnis gefragt hatte."
+        ]
+    },
+    {
+        "verb_form": "berichten \u00fcber + Akk.",
+        "verb": "berichten",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "\u00dcber diesen Fall wurde bereits im Fernsehen berichtet."
+        ]
+    },
+    {
+        "verb_form": "Bescheid wissen \u00fcber + Akk.",
+        "verb": "Bescheid",
+        "proposition": "wissen",
+        "case": "accusative",
+        "examples": [
+            "Ich m\u00f6chte dar\u00fcber Bescheid wissen, wenn jemand nicht teilnimmt.",
+            "Es tut mir leid, aber ich habe dar\u00fcber nicht Bescheid gewusst."
+        ]
+    },
+    {
+        "verb_form": "sich beschweren \u00fcber + Akk.",
+        "verb": "beschweren",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Wir haben uns bei unseren Nachbarn schon oft \u00fcber den L\u00e4rm beschwert.",
+            "Der Kunde hat sich dar\u00fcber beschwert, dass er nicht gut beraten wurde."
+        ]
+    },
+    {
+        "verb_form": "diskutieren \u00fcber + Akk.",
+        "verb": "diskutieren",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Ich habe so langsam keine Lust mehr, \u00fcber dieses leidige Thema zu diskutieren.",
+            "Wir haben stundenlang dar\u00fcber diskutiert, wer f\u00fcr welche Aufgabe zust\u00e4ndig ist."
+        ]
+    },
+    {
+        "verb_form": "sich entr\u00fcsten \u00fcber + Akk.",
+        "verb": "entr\u00fcsten",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Die Zuh\u00f6rer entr\u00fcsteten sich \u00fcber die Aussagen des Politikers."
+        ]
+    },
+    {
+        "verb_form": "sich erregen \u00fcber + Akk.",
+        "verb": "erregen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Ich habe mich sehr \u00fcber sein Verhalten erregt."
+        ]
+    },
+    {
+        "verb_form": "sich erschrecken \u00fcber + Akk.",
+        "verb": "erschrecken",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Ich habe mich sehr dar\u00fcber erschreckt."
+        ]
+    },
+    {
+        "verb_form": "sich freuen \u00fcber + Akk.",
+        "verb": "freuen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Wir freuen uns sehr \u00fcber das Geschenk.",
+            "Ich freue mich dar\u00fcber, dass du die Pr\u00fcfung bestanden hast."
+        ]
+    },
+    {
+        "verb_form": "herrschen \u00fcber + Akk.",
+        "verb": "herrschen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Mit eiserner Hand herrschte der Diktator \u00fcber 17 Millionen Einwohner.",
+            "\u00dcber die Hintergr\u00fcnde, die zu der Tat f\u00fchrten, herrscht weiterhin R\u00e4tselraten.",
+            "Besonderes Unverst\u00e4ndnis herrscht dar\u00fcber, dass der Konzernchef den",
+            "Aufsichtsrat nicht \u00fcber den geplanten Verkauf unterrichtet hat."
+        ]
+    },
+    {
+        "verb_form": "sich/jn. informieren \u00fcber + Akk.",
+        "verb": "informieren",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Vor der Reise habe ich mich gut \u00fcber die Stadt informiert.",
+            "Informierst du mich bitte dar\u00fcber, wann das n\u00e4chste Treffen stattfindet?"
+        ]
+    },
+    {
+        "verb_form": "jammern \u00fcber + Akk.",
+        "verb": "jammern",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "H\u00f6r endlich auf, \u00fcber dein Schicksal zu jammern und versuch selber, einen Ausweg zu finden."
+        ]
+    },
+    {
+        "verb_form": "jubeln \u00fcber + Akk.",
+        "verb": "jubeln",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Spieler und Fans jubelten gemeinsam \u00fcber diesen wichtigen Sieg."
+        ]
+    },
+    {
+        "verb_form": "klagen \u00fcber + Akk.",
+        "verb": "klagen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Er klagt schon seit Tagen \u00fcber heftige Kopfschmerzen."
+        ]
+    },
+    {
+        "verb_form": "lachen \u00fcber + Akk.",
+        "verb": "lachen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Wir mussten alle \u00fcber sein Missgeschick lachen.",
+            "Dar\u00fcber kann ich nun wirklich nicht lachen!"
+        ]
+    },
+    {
+        "verb_form": "nachdenken \u00fcber + Akk.",
+        "verb": "nachdenken",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "\u00dcber diese Frage m\u00f6chte ich noch einmal in Ruhe nachdenken.",
+            "Ich habe dar\u00fcber nachgedacht und bin zu einem Entschluss gekommen."
+        ]
+    },
+    {
+        "verb_form": "philosophieren \u00fcber + Akk.",
+        "verb": "philosophieren",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Sie philosophiert st\u00e4ndig \u00fcber das Leben."
+        ]
+    },
+    {
+        "verb_form": "reden \u00fcber + Akk.",
+        "verb": "reden",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Wir haben jetzt schon lange genug \u00fcber dieses Thema geredet.",
+            "Er hat mit ihr dar\u00fcber geredet, dass er eine Ver\u00e4nderung braucht."
+        ]
+    },
+    {
+        "verb_form": "referieren \u00fcber + Akk.",
+        "verb": "referieren",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Die Biologin referiert \u00fcber das Bienensterben."
+        ]
+    },
+    {
+        "verb_form": "sagen \u00fcber + Akk.",
+        "verb": "sagen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "K\u00f6nnen Sie vielleicht etwas dar\u00fcber sagen?",
+            "Was hat sie \u00fcber ihn gesagt?"
+        ]
+    },
+    {
+        "verb_form": "schimpfen \u00fcber + Akk.",
+        "verb": "schimpfen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Die Zuschauer schimpfen immer \u00fcber den Schiedsrichter."
+        ]
+    },
+    {
+        "verb_form": "schreiben \u00fcber + Akk.",
+        "verb": "schreiben",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "\u00dcber dieses Thema hat sie schon einmal einen Artikel geschrieben."
+        ]
+    },
+    {
+        "verb_form": "siegen \u00fcber + Akk.",
+        "verb": "siegen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Dank einer enormen Leistungssteigerung hat sie \u00fcber alle Konkurrentinnen gesiegt."
+        ]
+    },
+    {
+        "verb_form": "spotten \u00fcber + Akk.",
+        "verb": "spotten",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Die Zuschauer spotteten \u00fcber die schwache Leistung der Mannschaft."
+        ]
+    },
+    {
+        "verb_form": "sprechen \u00fcber + Akk.",
+        "verb": "sprechen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Wor\u00fcber habt ihr gesprochen?",
+            "Wir haben \u00fcber unsere Urlaubspl\u00e4ne gesprochen.",
+            "Wir haben dar\u00fcber gesprochen, was wir n\u00e4chsten Sommer machen werden.",
+            "\u00dcber wen habt ihr gesprochen?",
+            "Wir haben \u00fcber den neuen Lehrer gesprochen."
+        ]
+    },
+    {
+        "verb_form": "sich unterhalten \u00fcber + Akk.",
+        "verb": "unterhalten",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Ich habe mich mit ihr \u00fcber das letzte Wochenende unterhalten.",
+            "Wir haben uns dar\u00fcber unterhalten, wie wir unser Deutsch verbessern k\u00f6nnen."
+        ]
+    },
+    {
+        "verb_form": "urteilen \u00fcber + Akk.",
+        "verb": "urteilen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Wie urteilen Sie \u00fcber diesen Fall?",
+            "Dar\u00fcber k\u00f6nnen Sie gar nicht urteilen."
+        ]
+    },
+    {
+        "verb_form": "verf\u00fcgen \u00fcber + Akk.",
+        "verb": "verf\u00fcgen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Die Familie verf\u00fcgt \u00fcber zwei Autos und ein Motorrad.",
+            "Der Junge darf \u00fcber sein Taschengeld frei verf\u00fcgen.",
+            "Das Hotel verf\u00fcgt \u00fcber 342 Zimmer."
+        ]
+    },
+    {
+        "verb_form": "weinen \u00fcber + Akk.",
+        "verb": "weinen",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Er hat \u00fcber die traurige Nachricht geweint."
+        ]
+    },
+    {
+        "verb_form": "sich wundern \u00fcber + Akk.",
+        "verb": "wundern",
+        "proposition": "\u00fcber",
+        "case": "accusative",
+        "examples": [
+            "Ich wundere mich immer wieder \u00fcber dich.",
+            "Sie hat sich dar\u00fcber gewundert, dass er noch nicht zu Hause war."
+        ]
+    },
+    {
+        "verb_form": "sich \u00e4ngstigen um + Akk.",
+        "verb": "\u00e4ngstigen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Du solltest versuchen, dich nicht zu sehr um deine Kinder zu \u00e4ngstigen."
+        ]
+    },
+    {
+        "verb_form": "sich bem\u00fchen um + Akk.",
+        "verb": "bem\u00fchen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Wir bem\u00fchen uns um eine Aufenthaltsgenehmigung.",
+            "Sie hat sich erfolgreich um einen neuen Job bem\u00fcht."
+        ]
+    },
+    {
+        "verb_form": "jn. beneiden um + Akk.",
+        "verb": "beneiden",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Viele beneiden sie um ihre besonderen F\u00e4higkeiten."
+        ]
+    },
+    {
+        "verb_form": "jn. betr\u00fcgen um + Akk.",
+        "verb": "betr\u00fcgen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Man hat mich um 1000 Euro betrogen."
+        ]
+    },
+    {
+        "verb_form": "betteln um + Akk.",
+        "verb": "betteln",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Der arme Mann bettelte um ein Almosen.",
+            "Sie hat verzweifelt um Hilfe gebettelt.",
+            "Die Kinder haben darum gebettelt, l\u00e4nger aufbleiben zu d\u00fcrfen."
+        ]
+    },
+    {
+        "verb_form": "sich bewerben um + Akk.",
+        "verb": "bewerben",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Hiermit bewerbe ich mich um die Stelle als Erzieher in Ihrer Einrichtung.",
+            "Ich habe mich darum beworben, aber noch habe ich keine Antwort erhalten."
+        ]
+    },
+    {
+        "verb_form": "jn. bitten um + Akk.",
+        "verb": "bitten",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Darf ich Sie um einen Gefallen bitten?",
+            "Sie hat mich darum gebeten, ihr sofort Bescheid zu sagen, wenn ich was wei\u00df."
+        ]
+    },
+    {
+        "verb_form": "sich drehen um + Akk.",
+        "verb": "drehen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Auf der Tourismusmesse dreht sich alles um Urlaub und Reisen.",
+            "Es dreht sich immer alles um dich, aber ich bin auch noch da. Vergiss das nicht."
+        ]
+    },
+    {
+        "verb_form": "(sich) erh\u00f6hen um + Akk.",
+        "verb": "erh\u00f6hen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Der Fahrpreis hat sich um 10% erh\u00f6ht.",
+            "Sie hat ihr Gebot um 10 Euro erh\u00f6ht."
+        ]
+    },
+    {
+        "verb_form": "gehen um + Akk.",
+        "verb": "gehen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Worum geht es in diesem Film?",
+            "In diesem Buch geht es um einen jungen Mann und sein Leben in Berlin.",
+            "In diesem Artikel geht es darum, wie man seine Kinder zweisprachig erzieht."
+        ]
+    },
+    {
+        "verb_form": "sich handeln um + Akk.",
+        "verb": "handeln",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Es kann sich nur um ein Missverst\u00e4ndnis handeln.",
+            "Worum handelt es sich? Kann ich Ihnen weiterhelfen?",
+            "Sie sprechen von einer Person, aber ich wei\u00df nicht, um wen es sich handelt."
+        ]
+    },
+    {
+        "verb_form": "k\u00e4mpfen um + Akk.",
+        "verb": "k\u00e4mpfen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Die Mannschaften k\u00e4mpfen um den Titel als Weltmeister.",
+            "Am Anfang musste ich darum k\u00e4mpfen, ernst genommen zu werden."
+        ]
+    },
+    {
+        "verb_form": "sich k\u00fcmmern um + Akk.",
+        "verb": "k\u00fcmmern",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Meine Frau arbeitet und ich k\u00fcmmere mich um den Haushalt und die Kinder.",
+            "Wir haben alle Aufgaben f\u00fcr das Fest verteilt. Ich k\u00fcmmere mich um die Getr\u00e4nke.",
+            "Wir m\u00fcssen uns darum k\u00fcmmern, dass die Waschmaschine so schnell wie m\u00f6glich repariert wird."
+        ]
+    },
+    {
+        "verb_form": "sich schlagen um + Akk.",
+        "verb": "schlagen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Die Leute haben sich um die Eintrittskarten geschlagen."
+        ]
+    },
+    {
+        "verb_form": "sich sorgen um + Akk.",
+        "verb": "sorgen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Ich sorge mich sehr um die Gesundheit meiner Gro\u00dfmutter."
+        ]
+    },
+    {
+        "verb_form": "spielen um + Akk.",
+        "verb": "spielen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Wir spielen nicht um Geld."
+        ]
+    },
+    {
+        "verb_form": "sich/etw. steigern um + Akk.",
+        "verb": "steigern",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Dank eines intensiven Trainings konnte sie ihre Bestzeit um fast eine Sekunde steigern."
+        ]
+    },
+    {
+        "verb_form": "(sich) streiten um + Akk.",
+        "verb": "streiten",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Beide Elternteile haben vor Gericht um das Sorgerecht gestritten.",
+            "Die Kinder streiten (sich) oft darum, wer anfangen darf."
+        ]
+    },
+    {
+        "verb_form": "(sich) vermindern um + Akk.",
+        "verb": "vermindern",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Seine Sehf\u00e4higkeit hat sich um 5 Prozent vermindert."
+        ]
+    },
+    {
+        "verb_form": "(sich) verringern um + Akk.",
+        "verb": "verringern",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Ihre Schulden haben sich um die H\u00e4lfte verringert."
+        ]
+    },
+    {
+        "verb_form": "werben um + Akk.",
+        "verb": "werben",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Ich habe lange um sein Vertrauen geworben.",
+            "Das Unternehmen wirbt schon lange um neue, hochqualifizierte Mitarbeiter."
+        ]
+    },
+    {
+        "verb_form": "wetten um + Akk.",
+        "verb": "wetten",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Worum wetten wir?",
+            "Lass uns um einen Kasten Bier wetten."
+        ]
+    },
+    {
+        "verb_form": "wissen um + Akk.",
+        "verb": "wissen",
+        "proposition": "um",
+        "case": "accusative",
+        "examples": [
+            "Ich wei\u00df um meine Schw\u00e4chen."
+        ]
+    },
+    {
+        "verb_form": "leiden unter + Dat.",
+        "verb": "leiden",
+        "proposition": "unter",
+        "case": "dative",
+        "examples": [
+            "Er litt sehr unter dieser Situation.",
+            "Sie leidet sehr darunter, ihre Kinder nur am Wochenende zu sehen.",
+            "Er leidet sehr unter diesem enormen Leistungsdruck."
+        ]
+    },
+    {
+        "verb_form": "stehen unter + Dat.",
+        "verb": "stehen",
+        "proposition": "unter",
+        "case": "dative",
+        "examples": [
+            "Ich stehe unter Schock.",
+            "Sei vorsichtig! Die Leitung steht unter Strom.",
+            "Sie steht unter dem Einfluss von Drogen.",
+            "Die ganze Aktion stand von Anfang an unter einem schlechten Stern."
+        ]
+    },
+    {
+        "verb_form": "verstehen unter + Dat.",
+        "verb": "verstehen",
+        "proposition": "unter",
+        "case": "dative",
+        "examples": [
+            "Was verstehen Sie unter diesem Begriff?",
+            "Ich verstehe darunter etwas ganz anderes als Sie."
+        ]
+    },
+    {
+        "verb_form": "abh\u00e4ngen von + Dat.",
+        "verb": "abh\u00e4ngen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Alles h\u00e4ngt von deiner Entscheidung ab.",
+            "Wovon h\u00e4ngt es ab?",
+            "Es h\u00e4ngt davon ab, ob wir noch genug Zeit haben werden oder nicht."
+        ]
+    },
+    {
+        "verb_form": "jn. ablenken von + Dat.",
+        "verb": "ablenken",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Ich versuche, sie von ihren Problemen abzulenken.",
+            "Lenken Sie bitte nicht vom Thema ab!"
+        ]
+    },
+    {
+        "verb_form": "abschreiben von + Dat.",
+        "verb": "abschreiben",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Bei der Pr\u00fcfung hat er von einem Mitsch\u00fcler abgeschrieben.",
+            "Schreibt die S\u00e4tze bitte von der Tafel ab!"
+        ]
+    },
+    {
+        "verb_form": "absehen von + Dat.",
+        "verb": "absehen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Wir hatten Gl\u00fcck, denn die Polizisten haben von einer Strafe abgesehen.",
+            "Mal abgesehen davon, dass es die meiste Zeit geregnet hat, war der Urlaub sehr sch\u00f6n."
+        ]
+    },
+    {
+        "verb_form": "sich abwenden von + Dat.",
+        "verb": "abwenden",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Warum hast du dich von uns abgewendet?"
+        ]
+    },
+    {
+        "verb_form": "sich ausruhen von + Dat.",
+        "verb": "ausruhen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Ich m\u00f6chte mich jetzt ein bisschen von der Arbeit ausruhen."
+        ]
+    },
+    {
+        "verb_form": "jn./sich befreien von + Dat.",
+        "verb": "jn./sich",
+        "proposition": "befreien",
+        "case": "dative",
+        "examples": [
+            "Ich habe versucht, mich von meinen Zweifeln zu befreien.",
+            "Du musst dich davon befreien, immer alles immer hundertprozentig richtig machen zu wollen."
+        ]
+    },
+    {
+        "verb_form": "jm. berichten von + Dat.",
+        "verb": "berichten",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Das Fernsehen hat von diesem Vorfall berichtet.",
+            "Sie hat mir davon berichtet, dass es einen Unfall gegeben hat."
+        ]
+    },
+    {
+        "verb_form": "sich distanzieren von + Dat.",
+        "verb": "distanzieren",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Wir distanzieren uns ganz deutlich von diesen \u00c4u\u00dferungen."
+        ]
+    },
+    {
+        "verb_form": "erfahren von + Dat.",
+        "verb": "erfahren",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Ich habe leider zu sp\u00e4t von diesem Stellenangebot erfahren.",
+            "Wie hast du davon erfahren?",
+            "Ich habe aus der Zeitung davon erfahren."
+        ]
+    },
+    {
+        "verb_form": "sich erholen von + Dat.",
+        "verb": "erholen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Der Patient muss sich jetzt von der Operation erholen.",
+            "Das war ein gro\u00dfer Schreck und ich habe mich immer noch nicht davon erholt."
+        ]
+    },
+    {
+        "verb_form": "sich ern\u00e4hren von + Dat.",
+        "verb": "ern\u00e4hren",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Immer mehr Menschen ern\u00e4hren sich von veganen Lebensmitteln.",
+            "Wovon ern\u00e4hren sich diese Tiere?"
+        ]
+    },
+    {
+        "verb_form": "erwarten von + Dat.",
+        "verb": "erwarten",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Was erwarten Sie von Ihrer Zukunft?",
+            "Von ihm war doch nichts anderes zu erwarten!"
+        ]
+    },
+    {
+        "verb_form": "erz\u00e4hlen von\u00a0+ Dat.",
+        "verb": "erz\u00e4hlen",
+        "proposition": "von\u00a0+",
+        "case": "dative",
+        "examples": [
+            "Mein Opa hat oft von seiner Kindheit erz\u00e4hlt.",
+            "Woher wei\u00dft du das? Wer hat dir davon erz\u00e4hlt?"
+        ]
+    },
+    {
+        "verb_form": "halten von + Dat.",
+        "verb": "halten",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Was h\u00e4ltst du von unserem neuen Kollegen?",
+            "Was h\u00e4ltst du davon, wenn wir nach der Arbeit noch einen Kaffee trinken gehen?"
+        ]
+    },
+    {
+        "verb_form": "handeln von + Dat.",
+        "verb": "handeln",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Wovon handelt der Film?",
+            "Der Film handelt von einer ungew\u00f6hnlichen Freundschaft."
+        ]
+    },
+    {
+        "verb_form": "h\u00f6ren von + Dat.",
+        "verb": "h\u00f6ren",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Hast du schon von ihrer neuesten Idee geh\u00f6rt?",
+            "Das ist neu f\u00fcr mich, ich habe noch nie davon geh\u00f6rt."
+        ]
+    },
+    {
+        "verb_form": "leben von + Dat.",
+        "verb": "leben",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Wovon willst du eigentlich leben?",
+            "Sie verdient zu wenig, um davon leben zu k\u00f6nnen."
+        ]
+    },
+    {
+        "verb_form": "loskommen von + Dat.",
+        "verb": "loskommen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Sie schafft es einfach nicht, von ihm loszukommen."
+        ]
+    },
+    {
+        "verb_form": "reden von + Dat.",
+        "verb": "reden",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Meine Chefin redet schon lange von einer Gehaltserh\u00f6hung, aber bisher ist nichts geschehen.",
+            "Schluss jetzt! Reden wir nicht mehr davon!"
+        ]
+    },
+    {
+        "verb_form": "etwas/nichts sagen von + Dat.",
+        "verb": "sagen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Er hat mir nichts von seinen Problemen gesagt.",
+            "Warum hast du mir nichts davon gesagt?"
+        ]
+    },
+    {
+        "verb_form": "schreiben von + Dat.",
+        "verb": "schreiben",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "In der E-Mail schreibt sie davon, dass sie uns mal besuchen m\u00f6chte."
+        ]
+    },
+    {
+        "verb_form": "sprechen von + Dat.",
+        "verb": "sprechen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Von wem sprecht ihr? Doch nicht etwa von mir, oder?",
+            "Wir haben davon gesprochen, dass wir uns mal treffen sollten."
+        ]
+    },
+    {
+        "verb_form": "tr\u00e4umen von + Dat.",
+        "verb": "tr\u00e4umen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Wovon hast du letzte Nacht getr\u00e4umt?",
+            "Ich tr\u00e4ume von einem besseren Leben.",
+            "Ich tr\u00e4ume davon, im Lotto zu gewinnen und eine lange Reise zu machen."
+        ]
+    },
+    {
+        "verb_form": "sich trennen von + Dat.",
+        "verb": "trennen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Er hat sich von seiner Partnerin getrennt.",
+            "Sie haben sich voneinander getrennt."
+        ]
+    },
+    {
+        "verb_form": "jn./sich \u00fcberzeugen von + Dat.",
+        "verb": "jn./sich",
+        "proposition": "\u00fcberzeugen",
+        "case": "dative",
+        "examples": [
+            "Wir m\u00fcssen versuchen, die anderen von diesem Plan zu \u00fcberzeugen.",
+            "Ich bin davon \u00fcberzeugt, dass wir es schaffen werden."
+        ]
+    },
+    {
+        "verb_form": "sich unterscheiden von + Dat.",
+        "verb": "unterscheiden",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Unterscheiden sich die beiden Vorschl\u00e4ge wirklich voneinander?"
+        ]
+    },
+    {
+        "verb_form": "verlangen von + Dat.",
+        "verb": "verlangen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Er hat viel Geld von mir verlangt."
+        ]
+    },
+    {
+        "verb_form": "etwas/nichts verstehen von + Dat.",
+        "verb": "verstehen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Ich verstehe nicht viel von Informatik.",
+            "Davon verstehst du nichts!",
+            "Verstehst du was davon?"
+        ]
+    },
+    {
+        "verb_form": "wissen von + Dat.",
+        "verb": "wissen",
+        "proposition": "von",
+        "case": "dative",
+        "examples": [
+            "Wei\u00dft du etwas davon?",
+            "Von dieser Angelegenheit wei\u00df ich nichts.",
+            "Sie wei\u00df, wovon sie spricht."
+        ]
+    },
+    {
+        "verb_form": "sich \u00e4ngstigen vor + Dat.",
+        "verb": "\u00e4ngstigen",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Ich \u00e4ngstige mich vor der Zukunft."
+        ]
+    },
+    {
+        "verb_form": "sich ekeln vor + Dat.",
+        "verb": "ekeln",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Ich verstehe nicht, warum du dich vor Spinnen ekelst."
+        ]
+    },
+    {
+        "verb_form": "fliehen vor + Dat.",
+        "verb": "fliehen",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Die Familie ist vor dem Krieg geflohen."
+        ]
+    },
+    {
+        "verb_form": "sich f\u00fcrchten vor + Dat.",
+        "verb": "f\u00fcrchten",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Das Kind f\u00fcrchtet sich vor Monstern.",
+            "Ich f\u00fcrchte mich davor, meine Arbeitsstelle zu verlieren."
+        ]
+    },
+    {
+        "verb_form": "jm. grauen vor (es) + Dat.",
+        "verb": "grauen",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Mir graut vor dem Gedanken, dass wir uns vielleicht nie mehr sehen werden."
+        ]
+    },
+    {
+        "verb_form": "sich h\u00fcten vor + Dat.",
+        "verb": "h\u00fcten",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "H\u00fcten Sie sich vor Angeboten, die ihnen schnellen Reichtum versprechen!",
+            "H\u00fcte dich davor, mit dieser Person Gesch\u00e4fte zu machen!"
+        ]
+    },
+    {
+        "verb_form": "sich sch\u00e4men vor + Dat.",
+        "verb": "sch\u00e4men",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Du brauchst dich doch vor mir nicht zu sch\u00e4men!"
+        ]
+    },
+    {
+        "verb_form": "jn./sich sch\u00fctzen vor + Dat.",
+        "verb": "jn./sich",
+        "proposition": "sch\u00fctzen",
+        "case": "dative",
+        "examples": [
+            "Der Mantel sch\u00fctzt mich vor der K\u00e4lte."
+        ]
+    },
+    {
+        "verb_form": "sich/jn./etwas verstecken vor + Dat.",
+        "verb": "verstecken",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Warum versteckst du dich vor mir?",
+            "Du bist gut und brauchst dich vor niemandem zu verstecken."
+        ]
+    },
+    {
+        "verb_form": "jn. warnen vor + Dat.",
+        "verb": "warnen",
+        "proposition": "vor",
+        "case": "dative",
+        "examples": [
+            "Derzeit wird wieder vor einem gef\u00e4hrlichen Computervirus gewarnt.",
+            "Ich hatte dich davor gewarnt, aber du wolltest ja nicht h\u00f6ren."
+        ]
+    },
+    {
+        "verb_form": "jn. anhalten zu + Dat.",
+        "verb": "anhalten",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wir wurden zu Verschwiegenheit angehalten.",
+            "Man hat uns dazu angehalten, auf diese Fragen nicht zu antworten."
+        ]
+    },
+    {
+        "verb_form": "anmerken zu + Dat.",
+        "verb": "anmerken",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Ich m\u00f6chte noch etwas zum letzten Punkt anmerken."
+        ]
+    },
+    {
+        "verb_form": "jn. aufrufen zu + Dat.",
+        "verb": "aufrufen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Die Opposition hat zu Protesten aufgerufen.",
+            "Die Feuerwehr hat die Anwohner dazu aufgerufen, die Fenster geschlossen zu halten."
+        ]
+    },
+    {
+        "verb_form": "jn. begl\u00fcckw\u00fcnschen zu + Dat.",
+        "verb": "begl\u00fcckw\u00fcnschen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Er hat ihn zu seinem Erfolg begl\u00fcckw\u00fcnscht."
+        ]
+    },
+    {
+        "verb_form": "beitragen zu + Dat.",
+        "verb": "beitragen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Alle haben zu diesem gro\u00dfen Erfolg beigetragen.",
+            "Wir alle m\u00fcssen dazu beitragen, dass dieses Projekt ein Erfolg wird."
+        ]
+    },
+    {
+        "verb_form": "jn. bestimmen zu + Dat.",
+        "verb": "bestimmen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Der Firmenchef hat die loyale Mitarbeiterin zu seiner Nachfolgerin bestimmt.",
+            "Die F\u00f6rdergelder sind dazu bestimmt, die Infrastruktur der Region zu verbessern."
+        ]
+    },
+    {
+        "verb_form": "jn. bewegen zu + Dat.",
+        "verb": "bewegen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Er lie\u00df sich nicht zu einer Entschuldigung bewegen.",
+            "Sie l\u00e4sst sich einfach nicht dazu bewegen, von ihrem Amt zur\u00fcckzutreten.",
+            "Wir haben ihn dazu bewegt, um Verzeihung zu bitten."
+        ]
+    },
+    {
+        "verb_form": "jn. bringen zu + Dat.",
+        "verb": "bringen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Die Menschen m\u00fcssen dazu gebracht werden, weniger M\u00fcll zu produzieren."
+        ]
+    },
+    {
+        "verb_form": "dienen zu + Dat.",
+        "verb": "dienen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wozu dient das?"
+        ]
+    },
+    {
+        "verb_form": "jn. dr\u00e4ngen zu + Dat.",
+        "verb": "dr\u00e4ngen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Man hatte sie zu dieser Handlung gedr\u00e4ngt.",
+            "Ich wurde von allen Seiten dazu gedr\u00e4ngt, eine schnelle Entscheidung zu treffen."
+        ]
+    },
+    {
+        "verb_form": "sich entschlie\u00dfen zu + Dat.",
+        "verb": "entschlie\u00dfen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wozu hast du dich entschlossen?",
+            "Der Alkoholiker hat sich zu einer Entziehungskur entschlossen.",
+            "Ich habe mich dazu entschlossen, ein Jahr lang ins Ausland zu gehen."
+        ]
+    },
+    {
+        "verb_form": "jn. einladen zu + Dat.",
+        "verb": "einladen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Sie haben mich zum Essen eingeladen.",
+            "Darf ich Sie zu einer Tasse Kaffee einladen?"
+        ]
+    },
+    {
+        "verb_form": "sich entscheiden zu + Dat.",
+        "verb": "entscheiden",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Nach kurzer Besprechung haben wir uns zu diesem Schritt entschieden."
+        ]
+    },
+    {
+        "verb_form": "jn. ermahnen zu + Dat.",
+        "verb": "ermahnen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Der Arzt hat mich dazu ermahnt, mehr Wasser zu trinken."
+        ]
+    },
+    {
+        "verb_form": "jn. ermutigen zu + Dat.",
+        "verb": "ermutigen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wir haben versucht, ihn zu diesem wichtigen Schritt zu ermutigen.",
+            "Die Erfolge haben mich dazu ermutigt, weiterzumachen."
+        ]
+    },
+    {
+        "verb_form": "jn. erziehen zu + Dat.",
+        "verb": "erziehen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Die Kinder wurden zu gro\u00dfer Selbstst\u00e4ndigkeit erzogen.",
+            "Wir wurden dazu erzogen, die Natur zu respektieren."
+        ]
+    },
+    {
+        "verb_form": "f\u00fchren zu + Dat.",
+        "verb": "f\u00fchren",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wozu wird das alles f\u00fchren?",
+            "Die Strompreiserh\u00f6hungen k\u00f6nnen dazu f\u00fchren, dass die Haushalte weniger Energie verbrauchen."
+        ]
+    },
+    {
+        "verb_form": "geh\u00f6ren zu + Dat.",
+        "verb": "geh\u00f6ren",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Sie geh\u00f6ren zu unserer Gruppe.",
+            "Zu einem guten Fr\u00fchst\u00fcck geh\u00f6rt f\u00fcr mich ein leckeres Fr\u00fchst\u00fccksei."
+        ]
+    },
+    {
+        "verb_form": "jm. gratulieren zu + Dat.",
+        "verb": "gratulieren",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Hast du Maria zu ihrem Geburtstag gratuliert?"
+        ]
+    },
+    {
+        "verb_form": "halten zu + Dat.",
+        "verb": "halten",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Ich halte zu dir und hoffe, dass du gewinnst.",
+            "Zu welcher Mannschaft h\u00e4ltst du?",
+            "Zu wem h\u00e4ltst du?"
+        ]
+    },
+    {
+        "verb_form": "jn. herausfordern zu + Dat.",
+        "verb": "herausfordern",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Sie haben uns zu einem Wettkampf herausgefordert."
+        ]
+    },
+    {
+        "verb_form": "kommen zu + Dat.",
+        "verb": "kommen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Ich habe keine Zeit und komme einfach zu nichts.",
+            "Manchmal frage ich mich auch, wie ich zu dieser wunderbaren Frau gekommen bin."
+        ]
+    },
+    {
+        "verb_form": "neigen zu + Dat.",
+        "verb": "neigen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Er neigt leider zu Gewalt.",
+            "Sie neigt dazu, immer den Weg des geringsten Widerstands zu gehen."
+        ]
+    },
+    {
+        "verb_form": "passen zu + Dat.",
+        "verb": "passen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Passt das gelbe Hemd zur roten Hose?",
+            "Wir sind froh, dass sie jetzt in unserer Gruppe ist, denn sie passt super zu uns."
+        ]
+    },
+    {
+        "verb_form": "raten zu + Dat.",
+        "verb": "raten",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Ich rate dir zu Vorsicht.",
+            "Er hat mir dazu geraten, offen \u00fcber dieses Problem zu sprechen."
+        ]
+    },
+    {
+        "verb_form": "rechnen zu + Dat.",
+        "verb": "rechnen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Er rechnet mich zu seinen Freunden.",
+            "Die Polizei rechnet neben dem harten Kern noch etwa 100 Sympathisanten zu dieser Gruppe."
+        ]
+    },
+    {
+        "verb_form": "sagen zu + Dat.",
+        "verb": "sagen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Ich w\u00fcrde gern noch etwas zu diesem Punkt sagen.",
+            "Was sagen Sie dazu?",
+            "Dazu kann ich leider nichts sagen."
+        ]
+    },
+    {
+        "verb_form": "jn. schicken zu + Dat.",
+        "verb": "schicken",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wer schickt dich zu mir?",
+            "Meine Mutter hat mich zum Fris\u00f6r geschickt, weil sie meine Haare zu lang fand."
+        ]
+    },
+    {
+        "verb_form": "taugen zu + Dat.",
+        "verb": "taugen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Dieses Ger\u00e4t taugt zu nichts.",
+            "Ich frage mich wirklich, wozu dieses Verhalten taugt."
+        ]
+    },
+    {
+        "verb_form": "tendieren zu + Dat.",
+        "verb": "tendieren",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Der Verbleib des Spielers bei seiner derzeitigen Mannschaft ist ungewiss. Im",
+            "Moment tendiert er eher zu einem Vereinswechsel."
+        ]
+    },
+    {
+        "verb_form": "jn. \u00fcberreden zu + Dat.",
+        "verb": "\u00fcberreden",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wir haben sie dazu \u00fcberredet, sich mit uns zu treffen."
+        ]
+    },
+    {
+        "verb_form": "sich verabreden zu + Dat.",
+        "verb": "verabreden",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wir haben uns zu einem Treffen verabredet."
+        ]
+    },
+    {
+        "verb_form": "jn. veranlassen zu + Dat.",
+        "verb": "veranlassen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Was hat Sie zu dieser Entscheidung veranlasst?",
+            "Seine ermutigenden Worte haben mich dazu veranlasst, den Schritt zu wagen."
+        ]
+    },
+    {
+        "verb_form": "verwenden zu + Dat.",
+        "verb": "verwenden",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wozu kann man das verwenden?",
+            "Ich verwende den Computer haupts\u00e4chlich zum Arbeiten."
+        ]
+    },
+    {
+        "verb_form": "jn. verf\u00fchren zu + Dat.",
+        "verb": "verf\u00fchren",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Der niedrige Preis hat mich leider zum Kauf verf\u00fchrt."
+        ]
+    },
+    {
+        "verb_form": "jn. verleiten zu + Dat.",
+        "verb": "verleiten",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Leider lie\u00df ich mich zu dieser ungl\u00fccklichen \u00c4u\u00dferung verleiten.",
+            "Das wunderbare Wetter hat uns zu einem Ausflug verleitet."
+        ]
+    },
+    {
+        "verb_form": "jn. verpflichten zu + Dat.",
+        "verb": "verpflichten",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Man hat mich vertraglich dazu verpflichtet, diese Aufgabe zu \u00fcbernehmen.",
+            "Wir wurden zu Stillschweigen verpflichtet."
+        ]
+    },
+    {
+        "verb_form": "jn. verurteilen zu + Dat.",
+        "verb": "verurteilen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Der Angeklagte wurde zu einer Gef\u00e4ngnisstrafe von 3 Jahren verurteilt.",
+            "Das Unternehmen wurde dazu verurteilt, allen Betroffenen eine Entsch\u00e4digung zu zahlen."
+        ]
+    },
+    {
+        "verb_form": "jn. w\u00e4hlen zu + Dat.",
+        "verb": "w\u00e4hlen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Wir haben sie zur Klassensprecherin gew\u00e4hlt."
+        ]
+    },
+    {
+        "verb_form": "werden zu + Dat.",
+        "verb": "werden",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Die ganze Sache wird so langsam zu einem Problem.",
+            "Wie sind wir zu dem geworden, was wir heute sind?"
+        ]
+    },
+    {
+        "verb_form": "z\u00e4hlen zu + Dat.",
+        "verb": "z\u00e4hlen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Delfine z\u00e4hlen zu den S\u00e4ugetieren.",
+            "Sie z\u00e4hlt zu meinen Freundinnen."
+        ]
+    },
+    {
+        "verb_form": "jn. zwingen zu + Dat.",
+        "verb": "zwingen",
+        "proposition": "zu",
+        "case": "dative",
+        "examples": [
+            "Lass dich zu nichts zwingen!",
+            "Man hat mich zu dieser Aussage gezwungen.",
+            "Wir wurden dazu gezwungen, mit niemandem \u00fcber die Angelegenheit zu sprechen."
+        ]
+    },
+    {
+        "verb_form": "unterscheiden zwischen + Dat.",
+        "verb": "unterscheiden",
+        "proposition": "zwischen",
+        "case": "dative",
+        "examples": [
+            "Es ist nicht immer einfach, zwischen Recht und Unrecht zu unterscheiden."
+        ]
+    },
+    {
+        "verb_form": "vermitteln zwischen + Dat.",
+        "verb": "vermitteln",
+        "proposition": "zwischen",
+        "case": "dative",
+        "examples": [
+            "Wir haben versucht, zwischen beiden Seiten zu vermitteln."
+        ]
+    }
+]
