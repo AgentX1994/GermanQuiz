@@ -38,7 +38,7 @@ type VerbInfo = {
 }
 
 function getEnumKeyByEnumValue(myEnum: any, enumValue: number | string): string {
-    let keys = Object.keys(myEnum).filter((x) => myEnum[x] == enumValue);
+    let keys = Object.keys(myEnum).filter((x) => myEnum[x] === enumValue);
     return keys.length > 0 ? keys[0] : '';
 }
 
@@ -165,9 +165,9 @@ export class Quiz extends React.Component<QuizProps, QuizState> {
                     <div className="Container">
                         <p className="VerbContainer">{this.state.current_verb.verb}</p>
                         <div className="ResultsContainer">
-                            <p>Number Correct: {this.state.number_correct}</p>
-                            <p>Total Answered: {this.state.total_answered}</p>
-                            <p>Percentage: {Math.round(100.0 * (this.state.number_correct / Math.max(this.state.total_answered, 1)))}%</p>
+                            <p>Anzahl korrekt: {this.state.number_correct}</p>
+                            <p>Insgesamt beantwortet: {this.state.total_answered}</p>
+                            <p>Prozentsatz: {Math.round(100.0 * (this.state.number_correct / Math.max(this.state.total_answered, 1)))}%</p>
                         </div>
                     </div>
                     <div className="AnswersContainer">
@@ -253,7 +253,7 @@ export class Quiz extends React.Component<QuizProps, QuizState> {
                                 (
                                     (this.state.last_proposition !== this.state.last_verb.proposition || this.state.last_case !== this.state.last_verb.case)
                                     ?
-                                    `You selected ${this.state.last_proposition} + ${this.state.last_case}, but the answer was ${this.state.last_verb?.proposition} + ${this.state.last_verb?.case}`
+                                    `Sie haben "${this.state.last_proposition} + ${this.state.last_case}" ausgewählt, aber die richtige Antwort war "${this.state.last_verb?.proposition} + ${this.state.last_verb?.case}"`
                                     :
                                     ''
                                 )
