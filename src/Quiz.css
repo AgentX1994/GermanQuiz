@@ -75,3 +75,13 @@
     margin-left: auto;
     margin-right: 15%;
 }
+
+.LastVerbDisplay {
+    margin-left: 10%;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.ExampleContainer {
+    margin-left: 10%;
+}

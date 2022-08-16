@@ -37,6 +37,11 @@ type VerbInfo = {
     examples: string[];
 }
 
+function getEnumKeyByEnumValue(myEnum: any, enumValue: number | string): string {
+    let keys = Object.keys(myEnum).filter((x) => myEnum[x] == enumValue);
+    return keys.length > 0 ? keys[0] : '';
+}
+
 function parse_verbs(): VerbInfo[] {
     let ret = []
     for (let raw_verb of RawVerbs) {
@@ -50,12 +55,14 @@ function parse_verbs(): VerbInfo[] {
             console.log(`bad verb: ${raw_verb}`);
             continue;
         }
+        let prop_key = getEnumKeyByEnumValue(Proposition, raw_verb.proposition);
+        let case_key = getEnumKeyByEnumValue(GrammaticalCase, raw_verb.case);
         ret.push(
             {
                 verb_form: raw_verb.verb_form,
                 verb: raw_verb.verb,
-                proposition: Proposition[raw_verb.proposition as keyof typeof Proposition],
-                case: GrammaticalCase[raw_verb.case as keyof typeof GrammaticalCase],
+                proposition: Proposition[prop_key as keyof typeof Proposition],
+                case: GrammaticalCase[case_key as keyof typeof GrammaticalCase],
                 examples: raw_verb.examples,
             }
         )
@@ -78,8 +85,16 @@ export interface QuizState {
     number_correct: number,
     /** How many questions have been asked total */
     total_answered: number,
+    /** The currently selected proposition */
     selected_proposition: string,
+    /** The currently selected case */
     selected_case: string,
+    /** The last verb that was answered */
+    last_verb: VerbInfo | null,
+    /** The last proposition that was selected */
+    last_proposition: string,
+    /** The last case that was selected */
+    last_case: string,
 }
 
 export class Quiz extends React.Component<QuizProps, QuizState> {
@@ -89,43 +104,48 @@ export class Quiz extends React.Component<QuizProps, QuizState> {
         total_answered: 0,
         selected_proposition: "",
         selected_case: "",
+        last_verb: null,
+        last_proposition: "",
+        last_case: "",
     };
 
     checkAnswers(e: React.SyntheticEvent) {
         e.preventDefault();
-        console.log(this.state)
         if (this.state.selected_proposition === "" || this.state.selected_case === "") {
             // Missing an answer
             alert("Missing an answer!");
             return;
         }
-        console.log(`selected: (${this.state.selected_proposition}, ${this.state.selected_case})`);
+        const last_verb = this.state.current_verb
         const selected_proposition = Proposition[this.state.selected_proposition as keyof typeof Proposition];
         const selected_case = GrammaticalCase[this.state.selected_case as keyof typeof GrammaticalCase];
-        console.log(`selected: (${selected_proposition}, ${selected_case}), correct = (${this.state.current_verb.proposition}, ${this.state.current_verb.case})`);
+        const last_proposition = selected_proposition
+        const last_case = selected_case
         if (selected_proposition === this.state.current_verb.proposition && selected_case === this.state.current_verb.case) {
             // Correct
-            console.log("correct!");
             this.setState({
                 current_verb: next_verb(),
                 number_correct: this.state.number_correct + 1,
                 total_answered: this.state.total_answered + 1,
                 selected_proposition: "",
-                selected_case: ""
+                selected_case: "",
+                last_verb: last_verb,
+                last_proposition: last_proposition,
+                last_case: last_case,
             })
         } else {
             // Incorrect
-            console.log("Incorrect!");
             this.setState({
                 current_verb: next_verb(),
                 number_correct: this.state.number_correct,
                 total_answered: this.state.total_answered + 1,
                 selected_proposition: "",
-                selected_case: ""
+                selected_case: "",
+                last_verb: last_verb,
+                last_proposition: last_proposition,
+                last_case: last_case,
             })
         }
-        console.log("new state");
-        console.log(this.state);
     }
 
     onPropositionSelected(e: React.ChangeEvent<HTMLInputElement>) {
@@ -137,6 +157,7 @@ export class Quiz extends React.Component<QuizProps, QuizState> {
     }
 
     render() {
+        console.debug({current: this.state.current_verb, last: this.state.last_verb})
         return (
             <div className="QuizContainer">
                 <h1>Verben mit Präpositionen Quiz</h1>
@@ -195,10 +216,52 @@ export class Quiz extends React.Component<QuizProps, QuizState> {
                     </div>
                     <div className="ButtonContainer">
                         <button type="submit" className="check-btn">
-                            Check
+                            Prüfen
                         </button>
                     </div>
                 </form>
+                <div className="LastVerbContainer">
+                    <h2>
+                        Letztes Verb:
+                    </h2>
+                    <p className="LastVerbDisplay">
+                        {
+                            (this.state.last_verb !== null) ? this.state.last_verb.verb_form : "None Yet"
+                        }
+                    </p>
+                    <h2>
+                        Beispielsätze:
+                    </h2>
+                    <div className="ExampleContainer">
+                        <>
+                            {
+                                (this.state.last_verb !== null) ? this.state.last_verb.examples.map(example => {
+                                    return (
+                                        <p>
+                                            {example}
+                                        </p>
+                                    )
+                                }) : ""
+                            }
+                        </>
+                    </div>
+                    <div className="AnswerContainer">
+                        <p>
+                            {
+                                (this.state.last_verb !== null)
+                                ?
+                                (
+                                    (this.state.last_proposition !== this.state.last_verb.proposition || this.state.last_case !== this.state.last_verb.case)
+                                    ?
+                                    `You selected ${this.state.last_proposition} + ${this.state.last_case}, but the answer was ${this.state.last_verb?.proposition} + ${this.state.last_verb?.case}`
+                                    :
+                                    ''
+                                )
+                                : ""
+                            }
+                        </p>
+                    </div>
+                </div>
             </div>
         )
     }
